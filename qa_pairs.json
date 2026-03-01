@@ -1,0 +1,1871 @@
+[
+  {
+    "question": "那是你最喜欢的歌吗? 那是你最喜欢的歌吗? 那是你最喜欢的歌吗? 那是你最喜欢的歌吗?",
+    "answer_text": "嗯。 是的,是的。 我最喜欢的歌。 很容易,很容易唱。 我选了黄河的歌, 因为它能增强你的记忆。 但那首歌很长。 所以,如果我能记住它, 那就是很棒的。 是的,那其实很长的。 其实,我觉得我们可以开始, 如果你有什么感觉, 我们可以开始问一些问题。 是的,是的。 所以,我想, 通常这些问题, 我们可以开始问一些问题, 就是问问你的背景, 你的小时候。 我们可以开始在你当时的一天。",
+    "answer_start": 378.04,
+    "answer_end": 420.04,
+    "start_fmt": "06:18",
+    "label": "Is that your favorite song?",
+    "baba_segments": [
+      {
+        "start": 382.04,
+        "end": 391.04
+      },
+      {
+        "start": 394.04,
+        "end": 395.04
+      },
+      {
+        "start": 398.04,
+        "end": 407.04
+      },
+      {
+        "start": 411.04,
+        "end": 416.04
+      },
+      {
+        "start": 419.04,
+        "end": 420.04
+      }
+    ],
+    "visitor_question": "Can we start with your early life?"
+  },
+  {
+    "question": "周,你记得什么?",
+    "answer_text": "所以,我想我们开始 很简单的问题, 你不必太远。",
+    "answer_start": 423.04,
+    "answer_end": 428.04,
+    "start_fmt": "07:03",
+    "label": "What do you remember about Zhou?",
+    "baba_segments": [
+      {
+        "start": 423.04,
+        "end": 425.04
+      }
+    ],
+    "visitor_question": "Where would you like to begin?"
+  },
+  {
+    "question": "你用广东话是吗? 好吗?用英文吗?",
+    "answer_text": "任何你喜欢的。 好的。 我们是宇宙人。 我出生,自个儿是英国人。 劳动是女儿。 那么,我们的乡下, 大概,出生日是1946年。 10月初七。 那么,我们乡下, 我的村大概有100户人。 那么,最大的户是姓李的。 那么,我们姓程是第二最大的。 那么,我是196年来香港。 是的。 那么,我在乡下, 当时有,为什么我们申请了, 我妈妈当时申请了。 等一等,你先说。 所以,你出生在1946年。 是的。 在10月。 在10月的星期。",
+    "answer_start": 439.04,
+    "answer_end": 510.04,
+    "start_fmt": "07:19",
+    "label": "Preferred interview language",
+    "baba_segments": [
+      {
+        "start": 445.04,
+        "end": 449.04
+      },
+      {
+        "start": 454.04,
+        "end": 462.04
+      },
+      {
+        "start": 465.04,
+        "end": 505.04
+      },
+      {
+        "start": 508.04,
+        "end": 510.04
+      }
+    ],
+    "visitor_question": "Tell us about where you were born."
+  },
+  {
+    "question": "10月的星期,什么日子? 17?",
+    "answer_text": "不,初七。 7。 7。 所以,10月的星期。 我只说这些,因为我们会忘记。 所以,这是一个记忆的方法。 10月的星期。 10月的星期,7月的星期,1946年。",
+    "answer_start": 513.04,
+    "answer_end": 528.04,
+    "start_fmt": "08:33",
+    "label": "Interview date confirmation",
+    "baba_segments": [
+      {
+        "start": 516.04,
+        "end": 528.04
+      }
+    ],
+    "visitor_question": "What is your exact birthday?"
+  },
+  {
+    "question": "你叫什么名字? 你叫什么名字?",
+    "answer_text": "我叫郑鸿石清正。 我的家族名字是郑鸿石清正。 我叫郑鸿石清正。 我叫郑鸿石清正。 我叫郑鸿石清正。 我叫郑鸿石清正。 nonops forming Foie gras plant Quéこと제를 Blogy ooter ヨーロ spare gun 郎 我说,我认为能量与丰富之处。 地球和所有东西,不单单是水。 水让所有东西生长。 在乡下,我种植的田, 我种植土豆,种植米,种植蔬菜。 我们在乡下有米,茶,土豆。 现在全部都给了政府。 我们仍有一个老家。 爸爸还记得我们在乡下的地方, 但是现在我们已经去到, 我们已经变了,但我仍然记得我们的地方。 我知道我们有四个米林, 有两个土豆林, 土豆林在山上, 还有一个茶林在山上。 爸爸最多在我们的后山, 我们在后山上, 我们有一个土豆林。 爸爸的家的后山有一个纳指树。",
+    "answer_start": 534.04,
+    "answer_end": 678.04,
+    "start_fmt": "08:54",
+    "label": "What is your name?",
+    "baba_segments": [
+      {
+        "start": 534.04,
+        "end": 556.04
+      },
+      {
+        "start": 559.16,
+        "end": 560.5999999999999
+      },
+      {
+        "start": 577.04,
+        "end": 643.04
+      },
+      {
+        "start": 649.04,
+        "end": 661.04
+      },
+      {
+        "start": 667.04,
+        "end": 678.04
+      }
+    ],
+    "visitor_question": "What is your full name?"
+  },
+  {
+    "question": "纳指树就是什么呢?",
+    "answer_text": "他说,开花后, 他有白花, 白花, 当你烧热的时候, 它就变成了灯笼。 这是我们记得的, 非常有趣的。 我们那里有一个纳指树, 我不知道你们知道什么是纳指树。",
+    "answer_start": 683.04,
+    "answer_end": 706.04,
+    "start_fmt": "11:23",
+    "label": "What does that tree refer to?",
+    "baba_segments": [
+      {
+        "start": 691.04,
+        "end": 697.04
+      },
+      {
+        "start": 699.04,
+        "end": 706.04
+      }
+    ],
+    "visitor_question": "What do you remember about the trees back home?"
+  },
+  {
+    "question": "油是用来做什么?",
+    "answer_text": "用来画画。 我们做家事, 做家事就做油家事。 所以这都是在你家里,",
+    "answer_start": 716.04,
+    "answer_end": 727.04,
+    "start_fmt": "11:56",
+    "label": "What is oil used for?",
+    "baba_segments": [
+      {
+        "start": 720.04,
+        "end": 727.04
+      }
+    ],
+    "visitor_question": "How long did you live in the village?"
+  },
+  {
+    "question": "你那里有多久?",
+    "answer_text": "大概13-14年。 你好像有很开心的记忆, 有很开心的记忆。 当然,有一次我们, 我们第一次回去, 我们1960年走了, 204年, 我们和姑姑第一次回去。 我们有一个妻子, 她是我们的村子, 我见到那个人, 她是我们小学的学生, 我拿出她的名字出来, 我的妻子说, 哇,什么搞的,",
+    "answer_start": 729.04,
+    "answer_end": 773.04,
+    "start_fmt": "12:09",
+    "label": "How long were you there?",
+    "baba_segments": [
+      {
+        "start": 729.04,
+        "end": 760.04
+      },
+      {
+        "start": 762.04,
+        "end": 770.04
+      }
+    ],
+    "visitor_question": "What happened when you first went back to visit?"
+  },
+  {
+    "question": "你记得她的名字? 她的名字是什么?",
+    "answer_text": "我发现她的名字是, 她的名字是我的叔叔, 我妈妈的年轻兄弟。 她说, 哇,你的遇足能合的 口气一模一样。 所以你的温州的信息还是很好, 还不错。 当然,我跟他们一样, 我说了一点问题。",
+    "answer_start": 776.04,
+    "answer_end": 797.04,
+    "start_fmt": "12:56",
+    "label": "Do you remember her name?",
+    "baba_segments": [
+      {
+        "start": 776.04,
+        "end": 786.04
+      },
+      {
+        "start": 789.04,
+        "end": 797.04
+      }
+    ],
+    "visitor_question": "How did you still remember your Wenzhou dialect?"
+  },
+  {
+    "question": "阿爷怎么来到香港?",
+    "answer_text": "你的祖父。 是的。 那,爸爸的爷, 爸爸的爸爸, 他很小的时候是个孤儿, 是奥芬。 他们在乡下, 就, 他们的父母, 送他去这个, 上海, 去被批准, 去被批准。 那么后来, 他就跟那些人, 去了新加坡。 那么, 来新加坡之后呢, 那么新加坡, 这个, 日本因为中国, 南亚, 新加坡被占有了日本人。 所以, 应该, 应该, 1945, 或40, 哎呀, 约45, 那么他们, 不可以留在新加坡, 他们要回香港。 他们, 阿爷告诉我, 他们, 他们, 从新加坡, 坐船, 但是他们仍然在香港。 那么在香港之后呢, 那时, 没有, 中国被日本侵略了, 没有这个, 国家没有中国的安全, 没有中国的安全, 所有的事情, 都被杀了。 阿爷告诉我, 他们走回了城市, 三个月。 他们才下来, 然后, 那个战争结束了, 然后那时, 最后, 暂时结束了, 1945, 那个, 他们, 那时候, - 这是你生前的 - 是的,我生前的,我生前1946年 在195年,中国建立了共产党 爸爸的家人以前在上海工作 他去上海的工厂,后来又去了温州 我小时候去过温州的工厂工作 以前有些人去香港,叫了他爷爷去香港 他爷爷就,首先温州坐车去到马卡尔 由马卡尔给钱人家煲,煲 然后就去香港",
+    "answer_start": 815.04,
+    "answer_end": 975.04,
+    "start_fmt": "13:35",
+    "label": "How did grandfather come to Hong Kong?",
+    "baba_segments": [
+      {
+        "start": 823.04,
+        "end": 827.04
+      },
+      {
+        "start": 846.04,
+        "end": 847.04
+      },
+      {
+        "start": 855.04,
+        "end": 859.04
+      },
+      {
+        "start": 868.04,
+        "end": 870.04
+      },
+      {
+        "start": 879.04,
+        "end": 884.04
+      },
+      {
+        "start": 886.04,
+        "end": 893.04
+      },
+      {
+        "start": 896.04,
+        "end": 901.04
+      },
+      {
+        "start": 906.04,
+        "end": 909.04
+      },
+      {
+        "start": 918.04,
+        "end": 973.04
+      }
+    ],
+    "visitor_question": "Tell us about your grandfather's story.",
+    "featured": true
+  },
+  {
+    "question": "- 那是你去到香港的方式吗?",
+    "answer_text": "- 不,是的 - 他就坐车去到马卡尔 然后就从马卡尔到香港的煲 当时就是这样,他们去了香港,我们就留在后面 然后我们就说,你奶奶就申请政府 我们说要去香港 但是我们生前了两三年,不,不能 那么后来,为什么1960年,他可以得呢 你知不知道中国历史,1960年就是说 那时候是一个大秩序 前大秩序,他们有大秩序 那时候,毛泽东说15年,他们会比美国更好 然后,呃,北京,什么的 然后,那个行动,失败了 所以那些家庭说,没有饭,不够了 所以我们那时候,我们的公社,所有人,你都不能在自己的家里做饭 所有人都在那个饭厅里吃,因为你没有自己的食物 只有大家,那时候没有饭,我们就吃那些包菜,甜口肉包菜 水果是乾的,但有時會有雨,我們一樣照吃 有時會用草做餅,水就走 我們是從羅湖到香港 我們是從川南到香港 你爸爸在香港,所以你沒有見過他多年 從你小時候到你十五歲的時候,你沒有見過他 不,不,不,他們不是這樣 我想他們只有幾年,可能五年 以前他們是在香港 但他們通常都是在做草叢,沒有農業 但你也有在農業,他也在 對,但有些事情是這樣的 我們就這樣,我們很幸運來到香港 但是來香港之後,我們是更難過",
+    "answer_start": 977.04,
+    "answer_end": 1141.04,
+    "start_fmt": "16:17",
+    "label": "Was that how you got to Hong Kong?",
+    "baba_segments": [
+      {
+        "start": 979.04,
+        "end": 1141.04
+      }
+    ],
+    "visitor_question": "What was it like arriving in Hong Kong?",
+    "featured": true
+  },
+  {
+    "question": "為什麼呢?我們不懂得韓國語言",
+    "answer_text": "香港人會說廣東話 我們只會溫州話 我們在那些學校,我們不懂英文 所以爸爸去夜校,學英文",
+    "answer_start": 1144.04,
+    "answer_end": 1160.04,
+    "start_fmt": "19:04",
+    "label": "Why didn't you know the language?",
+    "baba_segments": [
+      {
+        "start": 1144.04,
+        "end": 1145.04
+      },
+      {
+        "start": 1148.04,
+        "end": 1160.04
+      }
+    ],
+    "visitor_question": "How did you learn English when you arrived?"
+  },
+  {
+    "question": "他們有夜校給孩子嗎?",
+    "answer_text": "不,給年輕人 那時候有很多,其實叫做逃犯,同樣的情況 那時候在香港 為什麼這個國際名稱,香港的流行名稱是專業 因為1960年到1962年 他們被稱為大逃犯 因為他們,大多數人來自廣東 從廣東到香港,那時候 但他們說的同樣的語言,你沒有 對,對,這就是 然後去學校,沒有英文 要學英文,然後學英文",
+    "answer_start": 1162.04,
+    "answer_end": 1201.04,
+    "start_fmt": "19:22",
+    "label": "Did they have night school for children?",
+    "baba_segments": [
+      {
+        "start": 1165.04,
+        "end": 1195.04
+      },
+      {
+        "start": 1197.04,
+        "end": 1201.04
+      }
+    ],
+    "visitor_question": "What was Hong Kong like for new immigrants then?"
+  },
+  {
+    "question": "你記得你住在香港嗎? 你第一次在香港的地方是哪裡?",
+    "answer_text": "我們那時候的辦公室是在黃興街 我們去Rand 黃興街在紅磡 那是媽媽在香港住的地方 她在紅磡,差不多地方 我們那時候在,她叫唐樓 是八公里的辦公室 你走上去,沒有升降機 然後呢,有三個房間 總共有500多平方米 那是挺大的吧 500多平方米,兩間房間 廁所,這個,那個,洗手間,洗手間 洗手間,整個,都是免費的 免費的房間 免費的房間,免費的家庭",
+    "answer_start": 1207.04,
+    "answer_end": 1266.04,
+    "start_fmt": "20:07",
+    "label": "Where did you first live in Hong Kong?",
+    "baba_segments": [
+      {
+        "start": 1207.04,
+        "end": 1212.04
+      },
+      {
+        "start": 1219.04,
+        "end": 1247.04
+      },
+      {
+        "start": 1249.04,
+        "end": 1261.04
+      },
+      {
+        "start": 1263.04,
+        "end": 1266.04
+      }
+    ],
+    "visitor_question": "Where did your family live in Hong Kong?"
+  },
+  {
+    "question": "那不是你家庭嗎? 不是你家庭嗎?",
+    "answer_text": "我們有六個 呃 我們有四個 不是,有六個 我們有六個 我們有一個房間 其他那些,有四個房間 其他那些,有,有,有 兩人一間房間 那,那就是,呃,那就是 因為,沒有,沒有房間 所以,因為,每個人都沒有錢 嗯",
+    "answer_start": 1270.04,
+    "answer_end": 1306.04,
+    "start_fmt": "21:10",
+    "label": "Was that not your family?",
+    "baba_segments": [
+      {
+        "start": 1286.04,
+        "end": 1293.04
+      },
+      {
+        "start": 1295.04,
+        "end": 1304.04
+      }
+    ],
+    "visitor_question": "How many of you shared that small space?"
+  },
+  {
+    "question": "然後,兩張床,對嗎?",
+    "answer_text": "然後,有一個床,晚上 我們就 所以 那,那是不錯的 那,那是六個 那不太差,所以,兩張床在上層,兩張床在下層 然後,兩張床在床上,從床上的一張床 不太差 因為,因為媽媽說她 他們都睡在一個床上 但是,他們睡在橫方的 六個或七個床 那,那不太差,但我不知道 應該是很差的 那就是一個房間,我覺得一個房間大概是 大概一百多公里左右 那,那是 所以,你們應該是很接近你們兄弟姐姐 對,對,對 或至少你們過了很多時間在一起 對,我過了很多時間在一起 但是,那時候,他們讀書 爸爸是最年輕的,所以爸爸都 那時候,我爸爸工作 爸爸的媽媽工作 她就工作在衣服工廠 媽媽就工作在一個衣服工廠",
+    "answer_start": 1323.04,
+    "answer_end": 1391.04,
+    "start_fmt": "22:03",
+    "label": "Were there two beds?",
+    "baba_segments": [
+      {
+        "start": 1323.04,
+        "end": 1326.04
+      },
+      {
+        "start": 1332.04,
+        "end": 1338.04
+      },
+      {
+        "start": 1340.04,
+        "end": 1346.04
+      },
+      {
+        "start": 1349.04,
+        "end": 1351.04
+      },
+      {
+        "start": 1353.04,
+        "end": 1358.04
+      },
+      {
+        "start": 1361.04,
+        "end": 1365.04
+      },
+      {
+        "start": 1368.04,
+        "end": 1383.04
+      },
+      {
+        "start": 1386.04,
+        "end": 1391.04
+      }
+    ],
+    "visitor_question": "How did you all sleep in one room?",
+    "featured": true
+  },
+  {
+    "question": "她是政府工人嗎?",
+    "answer_text": "她是繪製員 是的,是這樣的 那,那就",
+    "answer_start": 1399.04,
+    "answer_end": 1403.04,
+    "start_fmt": "23:19",
+    "label": "Was she a government worker?",
+    "baba_segments": [
+      {
+        "start": 1399.04,
+        "end": 1403.04
+      }
+    ],
+    "visitor_question": "What did your mother do for work?"
+  },
+  {
+    "question": "那,那你知道她繪製什麼衣服嗎?",
+    "answer_text": "我不知道,我們只是 香港的工廠,他們的工廠 他們都是一部分 不是整個的 那,那你要問",
+    "answer_start": 1405.04,
+    "answer_end": 1417.04,
+    "start_fmt": "23:25",
+    "label": "What clothes did she make or design?",
+    "baba_segments": [
+      {
+        "start": 1405.04,
+        "end": 1410.04
+      }
+    ],
+    "visitor_question": "What kind of factory work was it?"
+  },
+  {
+    "question": "誰買菜,誰煮飯呢?",
+    "answer_text": "我 我常常告訴你媽媽 爸爸小時候,經常讀語課 後來學校,我就去市場買菜 那裡買那些豆腐 不是一包,是一片豆腐 那,看到你要了,她就切一切 她看到我,哇,你年輕人 買菜給我,我比較大 所以你知道,爸爸一直都在煮東西",
+    "answer_start": 1421.04,
+    "answer_end": 1456.04,
+    "start_fmt": "23:41",
+    "label": "Who did the grocery shopping and cooking?",
+    "baba_segments": [
+      {
+        "start": 1423.04,
+        "end": 1434.04
+      },
+      {
+        "start": 1439.04,
+        "end": 1456.04
+      }
+    ],
+    "visitor_question": "Did you help out at home as a child?",
+    "featured": true
+  },
+  {
+    "question": "你比阿姨艾米多年?",
+    "answer_text": "四,四歲 好的 爸爸,誰是,我大概11歲 阿姨艾米",
+    "answer_start": 1472.04,
+    "answer_end": 1480.04,
+    "start_fmt": "24:32",
+    "label": "Are you older than Auntie Amy?",
+    "baba_segments": [
+      {
+        "start": 1475.04,
+        "end": 1479.04
+      }
+    ],
+    "visitor_question": "How old were your siblings?"
+  },
+  {
+    "question": "哦,真的嗎?",
+    "answer_text": "是的 所以,一年級 我一直以為阿姨艾米是最年輕的 現在她是第二年年輕人 第二年年輕人 所以,我也是 有一個原因,為什麼孤姐這麼久都沒有結婚",
+    "answer_start": 1481.04,
+    "answer_end": 1498.04,
+    "start_fmt": "24:41",
+    "label": "Surprised reaction or follow-up",
+    "baba_segments": [
+      {
+        "start": 1484.04,
+        "end": 1488.04
+      },
+      {
+        "start": 1493.04,
+        "end": 1498.04
+      }
+    ],
+    "visitor_question": "What do you remember about your youngest aunt?"
+  },
+  {
+    "question": "你知道為什麼嗎?",
+    "answer_text": "因為爸爸的媽媽死了 她要照顧家庭 那時候我已經來了夏威夷 所以她沒有機會,她要照顧家庭 所以沒有機會結婚",
+    "answer_start": 1499.04,
+    "answer_end": 1515.04,
+    "start_fmt": "24:59",
+    "label": "Do you know why?",
+    "baba_segments": [
+      {
+        "start": 1499.04,
+        "end": 1502.04
+      },
+      {
+        "start": 1507.04,
+        "end": 1515.04
+      }
+    ],
+    "visitor_question": "Why did your aunt never get married?",
+    "featured": true
+  },
+  {
+    "question": "我們不知道你媽媽的事,你能不能告訴我?",
+    "answer_text": "我媽媽非常友善,非常友善 我媽媽有九個兄弟 我哥哥有四個 我哥哥比我媽媽年輕 我媽媽有六個兄弟,我媽媽是最年輕的 她,她很友善,她有一個村子 大家都很喜歡她,她很友善 然後她,她和你們去香港了",
+    "answer_start": 1523.04,
+    "answer_end": 1568.04,
+    "start_fmt": "25:23",
+    "label": "Tell us about your mother",
+    "baba_segments": [
+      {
+        "start": 1523.04,
+        "end": 1533.04
+      },
+      {
+        "start": 1537.04,
+        "end": 1568.04
+      }
+    ],
+    "visitor_question": "What was your mother like?"
+  },
+  {
+    "question": "她在香港很久了嗎? 她在香港很久了嗎?",
+    "answer_text": "我們來香港在1960年 她在1977年死了 17年 所以她在香港很久了 對,很友善 那天她應該和馬玲和你媽媽來 然後她被打了 她死了 所以,這很很悲傷 她從來沒有在香港過過",
+    "answer_start": 1574.04,
+    "answer_end": 1611.04,
+    "start_fmt": "26:14",
+    "label": "Was she in Hong Kong a long time?",
+    "baba_segments": [
+      {
+        "start": 1574.04,
+        "end": 1582.04
+      },
+      {
+        "start": 1585.04,
+        "end": 1587.04
+      },
+      {
+        "start": 1589.04,
+        "end": 1595.04
+      },
+      {
+        "start": 1600.04,
+        "end": 1611.04
+      }
+    ],
+    "visitor_question": "How long was your mother in Hong Kong?",
+    "featured": true
+  },
+  {
+    "question": "那你爸爸呢?",
+    "answer_text": "你爸爸,我們知道他從小到現在 爸爸,他很熱情 很熱情 我們在香港,他工作了差不多七天 每天有 那時候我們,他那個什麼 他做貨車 那時候沒有機器,我們貨車 現在你有那些電子工具 那時候他要,好像一個 一個,一個大鑼 那時候要兩個人這樣 用手,手,手 對,那是從那時候開始的 所以他,他工作從早上到這個 早上到這個 也許八點或九點 什麼的 所以,所以我們見他時間不多 所以有時呢,只是 一時之間,也許有一個大假期 例如,月亮 中秋節 新年 然後 在5月,我們又端午節中呢 那麼有,有月亮節慶 那些我們就 我們又去 那時候有一個家庭很有名的 Tiger家庭在香港 那麼,那麼來的 所以平時沒有什麼時間 跟他一起出去 那麼後來,就是來香港的時候 後來,就是回去 我們又有時間一起,一起出去 後來我們,是可以回去 有時間 謝謝 後來,當你,當你過了夏天 我想,在哪裡,他在工作的工廠 他如何開始自己的工廠 他開始了自己的工廠嗎 對,對,對 他,首先他工作給其他人 然後他就開始了一個工廠 那麼,就,就這樣開始了工廠 那麼,但是他的工廠就是這樣 那時候是 在香港,你不可以有一個工廠的地方 你可以只有,好像那時候做在 人家有一個公寓 在那個 那個庭房,什麼的 做這個,做這個工廠 庭房 那麼,他那些 阿爺,他那些 工藝是非常好的 所以,他那時候有 收了,我想,十個之類的 同僚,在工作 啊,給他 那麼,那麼有些走了去自己 開,開,開這個 庭房 我們有一次有一個他走了去 那個什麼 馬隆 啊,紐約 我們有一次就特意 跟阿,跟Uncle Alice 在那邊開車去見他 那麼,現在我們有一個成日見過 在紐約 叫做陳長寶,阿寶 那麼阿寶 Uncle Alice 經常說,阿寶有一個女兒 她未結婚的,經常說介紹給你 他現在是,他有一個醫院 現在是這個 在西雅圖工作 那是我認識的 在 在Herman's wedding Yeah, yeah, yeah, yeah 那麼,他就是跟我們 那次Herman's wedding,我又見過 另外有兩個 也是 你爺爺的 apprentice",
+    "answer_start": 1613.04,
+    "answer_end": 1828.04,
+    "start_fmt": "26:53",
+    "label": "What about your father?",
+    "baba_segments": [
+      {
+        "start": 1613.04,
+        "end": 1618.04
+      },
+      {
+        "start": 1624.04,
+        "end": 1632.04
+      },
+      {
+        "start": 1634.04,
+        "end": 1638.04
+      },
+      {
+        "start": 1641.04,
+        "end": 1647.04
+      },
+      {
+        "start": 1650.04,
+        "end": 1653.04
+      },
+      {
+        "start": 1656.04,
+        "end": 1661.04
+      },
+      {
+        "start": 1668.04,
+        "end": 1676.04
+      },
+      {
+        "start": 1681.04,
+        "end": 1687.04
+      },
+      {
+        "start": 1691.04,
+        "end": 1699.04
+      },
+      {
+        "start": 1703.04,
+        "end": 1710.04
+      },
+      {
+        "start": 1712.04,
+        "end": 1735.04
+      },
+      {
+        "start": 1737.04,
+        "end": 1742.04
+      },
+      {
+        "start": 1748.04,
+        "end": 1754.04
+      },
+      {
+        "start": 1764.04,
+        "end": 1768.04
+      },
+      {
+        "start": 1772.04,
+        "end": 1775.04
+      },
+      {
+        "start": 1779.04,
+        "end": 1782.04
+      },
+      {
+        "start": 1786.04,
+        "end": 1798.04
+      },
+      {
+        "start": 1800.04,
+        "end": 1809.04
+      },
+      {
+        "start": 1815.04,
+        "end": 1822.04
+      },
+      {
+        "start": 1827.04,
+        "end": 1828.04
+      }
+    ],
+    "visitor_question": "What was your father like as a worker?",
+    "featured": true
+  },
+  {
+    "question": "Oh, really?",
+    "answer_text": "有幾個 所以,他們 我記得,香港的時候 每個年 中華年代下 第一天,所有的apprentice 第一天,都會來 來見你爺爺 因為他是師傅嘛",
+    "answer_start": 1829.04,
+    "answer_end": 1847.04,
+    "start_fmt": "30:29",
+    "label": "Surprised reaction or follow-up",
+    "baba_segments": [
+      {
+        "start": 1833.04,
+        "end": 1835.04
+      },
+      {
+        "start": 1839.04,
+        "end": 1842.04
+      }
+    ],
+    "visitor_question": "Did your father's apprentices respect him?"
+  },
+  {
+    "question": "你工作過在工廠裡嗎?",
+    "answer_text": "不太會 不太會 因為我沒有機會 因為當時去到學校 但是我經常去工廠 幫忙 但是你不能做,你不能做,像,桌子 我覺得我可以 如果用工具,我可以 其實,工廠裡 爸爸有很多想法 就是你爺爺 不,不,不,不,不聽",
+    "answer_start": 1852.04,
+    "answer_end": 1880.04,
+    "start_fmt": "30:52",
+    "label": "Did you work in a factory?",
+    "baba_segments": [
+      {
+        "start": 1858.04,
+        "end": 1862.04
+      },
+      {
+        "start": 1864.04,
+        "end": 1867.04
+      },
+      {
+        "start": 1869.04,
+        "end": 1871.04
+      },
+      {
+        "start": 1877.04,
+        "end": 1880.04
+      }
+    ],
+    "visitor_question": "Did you learn woodworking from your father?"
+  },
+  {
+    "question": "你知道為什麼嗎?",
+    "answer_text": "你看看,你看看 你看看,你看看,你看看 你看看,你看看,你看看 你看看,你看看,你看看 你看看,你看看,你看看 你看看,你看看 這是中國的方式 就是把東西放進去 腳 不是很功能 不是很功能 然後你用這個方式,西方方式 鋼線,對 不是鋼線 外面,像這樣 哦,我明白了,所以不是很順 但是,對,對",
+    "answer_start": 1882.04,
+    "answer_end": 1914.04,
+    "start_fmt": "31:22",
+    "label": "Do you know why?",
+    "baba_segments": [
+      {
+        "start": 1884.04,
+        "end": 1892.04
+      },
+      {
+        "start": 1894.04,
+        "end": 1896.04
+      },
+      {
+        "start": 1901.04,
+        "end": 1904.04
+      },
+      {
+        "start": 1910.04,
+        "end": 1912.04
+      }
+    ],
+    "visitor_question": "Can you show us how the traditional joinery worked?"
+  },
+  {
+    "question": "那是什麼意思呢?",
+    "answer_text": "如果你用這個方式 你會花很多勞動 用這個方式 你很容易,每個人都可以用 對 對 所以,我建議 你不要聽 因為,其實,這個會代表 中國的工藝生產 你不能 insist, insist那樣 然後,還有 呃,他們有不同的 像桌子,不同的 側板,或是座椅 都不同 所以,非常非常不同 對我來說 做一樣的畫,一樣的尺寸 只有外面的東西不同 所以你可以,那一種 一大塊的腳,或是那樣的 但是,他沒有機會去學校",
+    "answer_start": 1916.04,
+    "answer_end": 1962.04,
+    "start_fmt": "31:56",
+    "label": "What does that mean?",
+    "baba_segments": [
+      {
+        "start": 1916.04,
+        "end": 1917.04
+      },
+      {
+        "start": 1921.04,
+        "end": 1925.04
+      },
+      {
+        "start": 1930.04,
+        "end": 1932.04
+      },
+      {
+        "start": 1935.04,
+        "end": 1938.04
+      },
+      {
+        "start": 1940.04,
+        "end": 1943.04
+      },
+      {
+        "start": 1948.04,
+        "end": 1962.04
+      }
+    ],
+    "visitor_question": "What was the difference between Chinese and Western methods?"
+  },
+  {
+    "question": "學習任何東西,對嗎?",
+    "answer_text": "他只是在用他的工藝 花了很多年 對,對,對 因為他有經驗 然後,爺爺有一個很慷慨的 有時候,我做的很慷慨的 有時候,我做的生意很混亂",
+    "answer_start": 1964.04,
+    "answer_end": 1979.04,
+    "start_fmt": "32:44",
+    "label": "You could learn anything there?",
+    "baba_segments": [
+      {
+        "start": 1964.04,
+        "end": 1966.04
+      },
+      {
+        "start": 1970.04,
+        "end": 1979.04
+      }
+    ],
+    "visitor_question": "How did your grandfather feel about your ideas?"
+  },
+  {
+    "question": "為什麼呢?",
+    "answer_text": "就像我們那時候 有一個酒吧 很好的酒吧 但是,一片木 顏色不太好",
+    "answer_start": 1980.04,
+    "answer_end": 1988.04,
+    "start_fmt": "33:00",
+    "label": "Why was that?",
+    "baba_segments": [
+      {
+        "start": 1980.04,
+        "end": 1988.04
+      }
+    ],
+    "visitor_question": "Tell us about a difficult moment in the business."
+  },
+  {
+    "question": "為什麼呢?",
+    "answer_text": "那片木應該會掉下來 但是,爺爺為了省錢 就不掉下來 就放下去 他說沒有,沒有省錢 但是,這樣就弄壞了整個 整個表面 那個酒吧 好,很壞的想法 對",
+    "answer_start": 1989.04,
+    "answer_end": 2005.04,
+    "start_fmt": "33:09",
+    "label": "Why was that?",
+    "baba_segments": [
+      {
+        "start": 1989.04,
+        "end": 1993.04
+      },
+      {
+        "start": 1995.04,
+        "end": 1998.04
+      }
+    ],
+    "visitor_question": "What happened with the bar piece?"
+  },
+  {
+    "question": "你去過學校嗎? 在香港,你去過學校嗎? 你開始學校的時候,你去過了嗎?",
+    "answer_text": "因為,我認為你去過後 爸爸有一個 有些時候 爸爸那些 爺爺認識的那些人 也不是沒有人去學校 所以,爸爸開始的時候 去的那一間學校",
+    "answer_start": 2012.04,
+    "answer_end": 2028.04,
+    "start_fmt": "33:32",
+    "label": "Did you go to school in Hong Kong?",
+    "baba_segments": [
+      {
+        "start": 2012.04,
+        "end": 2014.04
+      },
+      {
+        "start": 2020.04,
+        "end": 2026.04
+      }
+    ],
+    "visitor_question": "How did you find your first school in Hong Kong?"
+  },
+  {
+    "question": "是什麼呢?",
+    "answer_text": "是那些 不被香港教育部管理 當時,我去的 學校是 在這個 應該是在這個 應該是在這個 那個建築上面 不是那個學校",
+    "answer_start": 2030.04,
+    "answer_end": 2048.04,
+    "start_fmt": "33:50",
+    "label": "What was it?",
+    "baba_segments": [
+      {
+        "start": 2032.04,
+        "end": 2034.04
+      }
+    ],
+    "visitor_question": "Was it a proper government school?"
+  },
+  {
+    "question": "為什麼呢?",
+    "answer_text": "他那時候 就 所以那時候小學 小學 他有這個 學生課程 如果他那個 學生課程 你有機會,如果你過了某個 某個級別 你可以去到 good middle school 但是,爸爸不知道 所以,他去了那個學校",
+    "answer_start": 2050.04,
+    "answer_end": 2080.04,
+    "start_fmt": "34:10",
+    "label": "Why was that?",
+    "baba_segments": [
+      {
+        "start": 2066.04,
+        "end": 2068.04
+      },
+      {
+        "start": 2074.04,
+        "end": 2080.04
+      }
+    ],
+    "visitor_question": "How did the school system work for you?"
+  },
+  {
+    "question": "那那個學校怎麼樣?",
+    "answer_text": "沒有小學回考 所以,爸爸這個 high school 那時候 轉了三間 第一間,那時候去的那間 是他開的 他們的private school 他們的for profit one year, no good 我就轉第二間 no good,但是第一年 和第二年之間 那時候,我已經考了 一個high school high school是 很難考的 但是我考了 但是 但是 就 有第二 第二間 第二間我又考了 第二間收了我 那時候,香港大立70元 一個月之內 那間好 那間收我過 我們捨得那個70元 那時候是law money 沒有了 所以,入了這個jump school 如果那時候,如果爸爸入這個 好的high school 會不同 會有什麼不同 爸爸會 no need to change school again no need to change school again 所以,我現在 跟著就是 他們那時候香港的制度有 5 years 第一年,form 1 那個school for profit no good",
+    "answer_start": 2082.04,
+    "answer_end": 2176.04,
+    "start_fmt": "34:42",
+    "label": "What was that school like?",
+    "baba_segments": [
+      {
+        "start": 2086.04,
+        "end": 2088.04
+      },
+      {
+        "start": 2092.04,
+        "end": 2094.04
+      },
+      {
+        "start": 2096.04,
+        "end": 2102.04
+      },
+      {
+        "start": 2104.04,
+        "end": 2106.04
+      },
+      {
+        "start": 2108.04,
+        "end": 2114.04
+      },
+      {
+        "start": 2132.04,
+        "end": 2134.04
+      },
+      {
+        "start": 2140.04,
+        "end": 2144.04
+      },
+      {
+        "start": 2146.04,
+        "end": 2152.04
+      },
+      {
+        "start": 2158.04,
+        "end": 2162.04
+      },
+      {
+        "start": 2166.04,
+        "end": 2168.04
+      },
+      {
+        "start": 2170.04,
+        "end": 2174.04
+      }
+    ],
+    "visitor_question": "How many schools did you attend?"
+  },
+  {
+    "question": "how old are you? how old are you?",
+    "answer_text": "I think 15 something 他那個school在香港 因為那時候人多 學school少 我們上上五班,你有沒有聽過上五班 下五班 他那時候for profit 上五班,就am school 即是說由8 o'clock to maybe 1 o'clock another class 就是same form 1 他有上邊下邊 然後另外一個2 o'clock to year 6 or year 7 上五班下五班 那時候的學分 因為no school not enough school 然後第二年 又轉了另外一間 想著好一點 還是不好 第三間就轉到好一點 所以form 3 to form 5 就去那間 之後跟著又告訴中學 有一個中學會考 你那個 oh high school 爸爸pass 你媽媽沒有pass 所以他有different role 你媽媽沒有pass 所以他學了typing 所以他有做job來的 爸爸 爸爸 what was your high school called what was your high school called Lutheran Middle School Lutheran Middle School Lutheran Middle School still there Waterloo Road 我們那次去住個酒店 Waterloo Road is 有maché Nayton Road Waterloo Road 其實這路 就是在Nayton Road的 最初的路 Waterloo Road Waterloo Road 一直到Kowloon Town Kowloon Town很著名 有很多住客 但是這是最初的路 你好 我叫 我們就在 中國大學 Hong Kong New Asia College New Asia College就是我們住的地方 Walking distance Where were you living then 在那裡 橫行街 那時搬了 搬了 搬了 new apartment 6th floor 有這個 有elevator 那時在Hong Kong嗎 對 我只住在 1 2 2 blocks away 在Hong Kong 所以基本上在Hong Kong 我們很熟悉 你媽媽也是在Hong Kong 不過遠一點 你媽媽那時好一點 因為他們住在 Galman housing 所以他們有高薪水 所以你住在 Cuhk 對 那時是怎麼樣的 呃 那 第一兩年 我們是很熟悉的 Walking distance 然後 從 呃 第一兩年 在農棚 在那裡 農棚在那裡 土瓜灣 然後就搬去沙天 第二年在沙天 沙天呢 沒有寮所 所以我們要 坐火車進去 坐火車進去 坐火車 去 很遠吧 沙天 沙天是 新的土地 哦是新的土地 很遠 你學校的主題是什麼 其實我那時候讀生意 生意 我做了很多生意 所以我讓我 讓我 開始自己的生意 但沒有成功 你自己的生意是什麼 那是一個 那不是工廠的一部分嗎 是分開的 這個 將來的工廠我們是 銷售 他的 爺爺公司叫做 Tetley 北投銷 爺爺的工廠叫做 Tetley Furniture Company",
+    "answer_start": 2180.04,
+    "answer_end": 2480.04,
+    "start_fmt": "36:20",
+    "label": "How old are you?",
+    "baba_segments": [
+      {
+        "start": 2180.04,
+        "end": 2184.04
+      },
+      {
+        "start": 2186.04,
+        "end": 2190.04
+      },
+      {
+        "start": 2192.04,
+        "end": 2204.04
+      },
+      {
+        "start": 2206.04,
+        "end": 2210.04
+      },
+      {
+        "start": 2214.04,
+        "end": 2218.04
+      },
+      {
+        "start": 2226.04,
+        "end": 2230.04
+      },
+      {
+        "start": 2232.04,
+        "end": 2234.04
+      },
+      {
+        "start": 2238.04,
+        "end": 2240.04
+      },
+      {
+        "start": 2242.04,
+        "end": 2252.04
+      },
+      {
+        "start": 2256.04,
+        "end": 2274.04
+      },
+      {
+        "start": 2276.04,
+        "end": 2280.04
+      },
+      {
+        "start": 2282.04,
+        "end": 2284.04
+      },
+      {
+        "start": 2286.04,
+        "end": 2294.04
+      },
+      {
+        "start": 2296.04,
+        "end": 2298.04
+      },
+      {
+        "start": 2312.04,
+        "end": 2322.04
+      },
+      {
+        "start": 2332.04,
+        "end": 2336.04
+      },
+      {
+        "start": 2338.04,
+        "end": 2342.04
+      },
+      {
+        "start": 2348.04,
+        "end": 2354.04
+      },
+      {
+        "start": 2356.04,
+        "end": 2358.04
+      },
+      {
+        "start": 2360.04,
+        "end": 2362.04
+      },
+      {
+        "start": 2364.04,
+        "end": 2368.04
+      },
+      {
+        "start": 2384.04,
+        "end": 2386.04
+      },
+      {
+        "start": 2432.04,
+        "end": 2436.04
+      },
+      {
+        "start": 2438.04,
+        "end": 2442.04
+      },
+      {
+        "start": 2454.04,
+        "end": 2456.04
+      },
+      {
+        "start": 2458.04,
+        "end": 2460.04
+      },
+      {
+        "start": 2464.04,
+        "end": 2466.04
+      },
+      {
+        "start": 2478.04,
+        "end": 2480.04
+      }
+    ],
+    "visitor_question": "How large were the classes back then?"
+  },
+  {
+    "question": "Tetley?",
+    "answer_text": "那是英文名字吧 Tetley T-A-K T-A-K L-E-E Furniture Company Tetley 英文字的意思是 Get Profit Tet就是Get Lea是Profit 啊 Mai是不同的 Dragging Wood 所以你是在商店 對 但你只有售Tetley Furniture 不不不",
+    "answer_start": 2482.04,
+    "answer_end": 2513.04,
+    "start_fmt": "41:22",
+    "label": "Did you sell Tetley tea?",
+    "baba_segments": [
+      {
+        "start": 2489.04,
+        "end": 2491.04
+      },
+      {
+        "start": 2495.04,
+        "end": 2501.04
+      },
+      {
+        "start": 2505.04,
+        "end": 2507.04
+      },
+      {
+        "start": 2510.04,
+        "end": 2512.04
+      }
+    ],
+    "visitor_question": "What did Dragonwood mean as a name?"
+  },
+  {
+    "question": "你售其他的東西嗎?",
+    "answer_text": "我售的東西不太多 因為爺爺有高級的標準 不想要多次生產 所以我們要 不然就不夠了 爺爺因為 他有高質素的工廠 那意味著 那個價格太高了 不比其他人的高質素 所以你有Dragging Wood 那是有多次的資源 對 你知道 當時我們Furniture Company 是Pincer Snow Good 當時我們花了HKD 三十五百元一月 每年我問那個Langlock Reduce Price 那個Langlock都行 他說OK Reduce 10% 但是當時的Langlock說 為什麼你買了那個Property 買了Storefront 當時他是什麼呢 那時候Pay是 HKD 3500 但是當時那個Property呢 是HKD 380 HKD 80,000 HKD 但是我們沒有錢買 另外還有一件事 有一個很有趣的事 他一直是反對買樓 他一直是反對買樓 當時我們 我們開始的時候 不能買這個 HKD 380 另外還有一件事 我們開始的時候 我們沒有很多人有錢 所有的人是沒有錢的 那如果我聽那個人買那個Property 哇 現在厲害了 我想 可能是HKD一億 是一億HKD嗎 你明不明 你知不知道 當時在Uncle Bill他們買了 那個地方在西貢 你知道你去過那裡嗎 那時西貢他買了一包 多少錢啊 那時買了一包 HKD 900 住的地方 但是那時的同樣的錢 他要買在這個 那個 Prince Edward Road 那個 Prince Edward Road 那個 Prince Edward Road 他說那時去買 兩間房子 Prince Edward Road Prince Edward Road就是那時 不知道你有沒有去過 陳思龍他們家裡 那麼在 後來 那時姑姐 什麼錢告訴你 我都不知道 那些HKD 400 他就HKD 900 HKD 400 我只覺得 可能 可能 可能 七年或八年後 可以買多少錢啊 七萬 HKD 400 可以買七萬 所以如果你在香港不買房子 你會輸掉 香港那麼狂熱 沒有那裡 房子的價值可以 那麼厲害 那時 後來 誰 他們拿了一張單 買回來 後來 Uncle Alice 告訴你 後來有個小貓 那時很貴的時候 他說 他說 有人買我們西貢住那裡 他拿了一張單買回來 有人走出去 六萬 但是Uncle Bill不肯買 全是他偷了 人家 都不肯買 他是自己選的 就開房買 就開房買 他不肯買 有多少錢 所以買房子 他買房子 為什麼 為什麼 變成衣服 然後 他也不想買 他不肯 因為他也不肯買 他不肯買 他不肯買 看來 他市廉 貴呀 貴呀 他會賣다고 原來 這個 cunning 賣了 他自己支付我,所以我媽媽經常抱怨, 我給他這麼多錢,他沒有抱怨,他現在工作很辛苦, 但他沒有計劃,就是這樣。 我們回到Dragonwood Furniture,",
+    "answer_start": 2514.04,
+    "answer_end": 2825.04,
+    "start_fmt": "41:54",
+    "label": "Did you sell other things too?",
+    "baba_segments": [
+      {
+        "start": 2514.04,
+        "end": 2521.04
+      },
+      {
+        "start": 2531.04,
+        "end": 2535.04
+      },
+      {
+        "start": 2539.04,
+        "end": 2551.04
+      },
+      {
+        "start": 2553.04,
+        "end": 2564.04
+      },
+      {
+        "start": 2567.04,
+        "end": 2578.04
+      },
+      {
+        "start": 2580.04,
+        "end": 2591.04
+      },
+      {
+        "start": 2595.04,
+        "end": 2607.04
+      },
+      {
+        "start": 2610.04,
+        "end": 2612.04
+      },
+      {
+        "start": 2614.04,
+        "end": 2621.04
+      },
+      {
+        "start": 2630.04,
+        "end": 2641.04
+      },
+      {
+        "start": 2644.04,
+        "end": 2647.04
+      },
+      {
+        "start": 2654.04,
+        "end": 2659.04
+      },
+      {
+        "start": 2661.04,
+        "end": 2665.04
+      },
+      {
+        "start": 2673.04,
+        "end": 2675.04
+      },
+      {
+        "start": 2679.04,
+        "end": 2681.04
+      },
+      {
+        "start": 2683.04,
+        "end": 2685.04
+      },
+      {
+        "start": 2687.04,
+        "end": 2689.04
+      },
+      {
+        "start": 2693.04,
+        "end": 2697.04
+      },
+      {
+        "start": 2707.04,
+        "end": 2710.04
+      },
+      {
+        "start": 2730.04,
+        "end": 2733.04
+      },
+      {
+        "start": 2753.04,
+        "end": 2754.04
+      },
+      {
+        "start": 2762.04,
+        "end": 2768.04
+      },
+      {
+        "start": 2770.04,
+        "end": 2774.04
+      },
+      {
+        "start": 2783.04,
+        "end": 2784.04
+      },
+      {
+        "start": 2801.04,
+        "end": 2825.04
+      }
+    ],
+    "visitor_question": "How did the furniture business actually work?"
+  },
+  {
+    "question": "你說它沒有成功,你覺得它有多久?",
+    "answer_text": "Dragonwood Furniture在1974年開始, 爸爸從大學畢業, 因為Dragonwood Furniture的生意不錯, 爸爸參加了香港交通部發展委員會的交通任務, 在19…… 我記得了, 1975年, 出了任務, 有去洛杉磯, 去紐約,邁阿密,和潘拿馬,四個城市, 那時候就推銷我們的產品, 但沒有成功, 後來, 我還有一個高中同學, 他在洛杉磯讀書, 所以他在那裡,爸爸就在洛杉磯買了一間房子。 這就是為什麼我來到華為, 第一次來是在1975年。",
+    "answer_start": 2830.04,
+    "answer_end": 2910.04,
+    "start_fmt": "47:10",
+    "label": "How long did the business last?",
+    "baba_segments": [
+      {
+        "start": 2830.04,
+        "end": 2856.04
+      },
+      {
+        "start": 2868.04,
+        "end": 2879.04
+      },
+      {
+        "start": 2889.04,
+        "end": 2910.04
+      }
+    ],
+    "visitor_question": "How did the idea of coming to Hawaii come about?"
+  },
+  {
+    "question": "因為你叫做Daniel?",
+    "answer_text": "對,我叫Daniel。 我以前很少在這裡, 要不然你們也不會知道。",
+    "answer_start": 2913.04,
+    "answer_end": 2920.04,
+    "start_fmt": "48:33",
+    "label": "Were you called Daniel?",
+    "baba_segments": [
+      {
+        "start": 2913.04,
+        "end": 2920.04
+      }
+    ],
+    "visitor_question": "Did you go by a different name here?"
+  },
+  {
+    "question": "他學了嗎?",
+    "answer_text": "他家裡有錢, 他可以出來, 因為爸爸沒錢, 要在香港讀大學。 那時候, 在美國, 從香港讀書, 對, 因為當時我朋友說香港最多人去UH讀書 因為他們的選擇是美國最便宜的大學 所以很多人來 現在是否我不知道 當時他說最便宜,為何這麼多人來考驗 另外又近呢 那時候有大拉斐 那時候有新加坡航空機 我回香港前有用大拉斐 有ASR、AMS,但現在不在了 那時候有新加坡航空機 那時候有一個人在文化廣場 我們很熟悉的 其實我爸爸在以前 我爸爸在那時和一間公司合作 叫做Home Beautiful 在香港酒店 在香港酒店購物 跟他商量 他有一個小伙伴在那裡做 大家覺得不適合 我們就自己開了 當我參與了CUHK時 我已經在做生意 跟Home Beautiful 對,Home Beautiful 因為有另外一個人 那時候Culture Plaza是一個台灣群組的 他認識一個台灣人 叫他來Home Beautiful 他在Culture Plaza開了一個傢俬舖 就這樣了 那時候就是1976 那時候就是 1974 oil crisis 整個美國都在逆向 他的生意就開了在1974 那個生意不太好 原本有香港派了一個人來 Send people from Hong Kong Manage for他 那個叫陳生 那個人說那裡No future No business 所以他就回香港 他回香港 他怎樣 他見到我了 他說你有沒有興趣去呀 那時我不知道他在那裡 我說好啦,就來到Home Beautiful 在Culture Plaza 他叫我來時 他說你來,我去拿個Green Card for you 他就來了 來了之後 年紀了 我說為什麼還沒有跟我申請這個Green Card呢 那時那個律師 有時見到那位律師,他說這家Home Beautiful已經有四個人 台灣的Home Beautiful有四個人來申請Green Card 他已經拿了,cannot have no more That's why那時剛剛Vanilla Hotel renovation finish 他有shopping,shopping那裏有地方可以rent out 其他Business,everybody有gift shop,everything 沒有Chinese Furniture Shop 所以我們那時剛剛在Culture Park,我們認識一個人 那個人做Jewelry,他是employee 他認識一個人在Vanilla Hotel,他介紹我去 所以就拿了個舖位 拿了舖位 原本應該是用Home Beautiful來開 因為那個lawyer說不行 因為Home Beautiful已經有四個人拿了那個舖位 所以爸爸用了這個 Krigenwood 在Murray Mall開了 那時他有份,那個人叫我來 但是他後來他不要走了 因為那時是以我們的名字 我們申請Green Card的law是很難的 為什麼呢 原本我們那個quota應該到的 你知道嗎,你申請Green Card來這裡 China有quota,有20,000,全美國給你 但是爸爸那時,我們的quota快到了 那時的quota主要是香港、台灣那些人 那時Jimmy Carter是President 他就認識這個Mainland China 那時是1979年 我們就正式結婚 那時的意思是 在中國來的那些人 每個人都用了所有的quota 所以假設我是1979年 我就應該可以拿到Green Card了 我們要等到83、84才能拿到Green Card",
+    "answer_start": 2931.04,
+    "answer_end": 3319.0,
+    "start_fmt": "48:51",
+    "label": "Did he learn it?",
+    "baba_segments": [
+      {
+        "start": 2937.04,
+        "end": 2940.04
+      },
+      {
+        "start": 2945.04,
+        "end": 2959.36
+      },
+      {
+        "start": 2963.48,
+        "end": 2967.96
+      },
+      {
+        "start": 2975.28,
+        "end": 2999.1600000000003
+      },
+      {
+        "start": 3001.72,
+        "end": 3015.7999999999997
+      },
+      {
+        "start": 3029.12,
+        "end": 3032.2
+      },
+      {
+        "start": 3037.56,
+        "end": 3041.16
+      },
+      {
+        "start": 3045.0,
+        "end": 3068.04
+      },
+      {
+        "start": 3070.08,
+        "end": 3076.24
+      },
+      {
+        "start": 3077.7599999999998,
+        "end": 3089.04
+      },
+      {
+        "start": 3092.88,
+        "end": 3099.2799999999997
+      },
+      {
+        "start": 3101.84,
+        "end": 3106.96
+      },
+      {
+        "start": 3115.92,
+        "end": 3123.6
+      },
+      {
+        "start": 3126.42,
+        "end": 3130.78
+      },
+      {
+        "start": 3142.56,
+        "end": 3146.4
+      },
+      {
+        "start": 3149.0,
+        "end": 3255.0
+      },
+      {
+        "start": 3257.0,
+        "end": 3295.0
+      },
+      {
+        "start": 3300.0,
+        "end": 3319.0
+      }
+    ],
+    "visitor_question": "How did you manage your visa to stay?"
+  },
+  {
+    "question": "你之前還沒有拿到Visa嗎? 什麼樣的Visa你拿到的?",
+    "answer_text": "L1,L1是公司轉移 所以我在香港有Jergenwood Furniture 所以這個Visa就 每年我都要申請Visa 我們都知道要申請 那時非常非常難 因為每年都要做TB測試 我都要做TB測試 我都要做自己的 因為律師太多了 那麽說到Jergenwood Furniture在香港 那原本那間Visa很不錯 那時我申請了一個叫Ocean Center 新的購物中心 上面是辦公室 下面有三層的購物中心 我們就申請了那個 那個位置 那個位置非常好 所以爸爸來了這裡",
+    "answer_start": 3326.0,
+    "answer_end": 3386.0,
+    "start_fmt": "55:26",
+    "label": "What visa did you obtain?",
+    "baba_segments": [
+      {
+        "start": 3326.0,
+        "end": 3350.0
+      },
+      {
+        "start": 3355.0,
+        "end": 3368.0
+      },
+      {
+        "start": 3373.0,
+        "end": 3379.0
+      },
+      {
+        "start": 3385.0,
+        "end": 3386.0
+      }
+    ],
+    "visitor_question": "What was the Ocean Center shop like?"
+  },
+  {
+    "question": "那是那一間還在嗎? 還是現在修復了?",
+    "answer_text": "那個Ocean Center還在 但是他們 嘿嘿嘿",
+    "answer_start": 3391.0,
+    "answer_end": 3397.0,
+    "start_fmt": "56:31",
+    "label": "Is that place still there?",
+    "baba_segments": [
+      {
+        "start": 3391.0,
+        "end": 3394.0
+      }
+    ],
+    "visitor_question": "Is that Ocean Center still there today?"
+  },
+  {
+    "question": "那是在金沙咀的那間嗎?",
+    "answer_text": "現在很舊 那是在Ocean Terminal旁邊 Ocean Center在Ocean Terminal旁邊 最後 最後因為我們兩個都在Ocean Center 那時有兩間 一間我們一個就是夏先生 你知道夏先生是吧 夏先生仍然留在Ocean Center 最後我們原本有Ocean Center的商業非常好 位置非常好 最後不知道怎樣 可能夏先生 跟那個Ocean Center的管理人或什麼 Flan 或什麼 就提醒了我們 提醒了我們 走去這個Hong Kong Hotel 只有300平方米 小空間",
+    "answer_start": 3402.0,
+    "answer_end": 3456.0,
+    "start_fmt": "56:42",
+    "label": "Was that the one in Tsim Sha Tsui?",
+    "baba_segments": [
+      {
+        "start": 3404.0,
+        "end": 3410.0
+      },
+      {
+        "start": 3412.0,
+        "end": 3417.0
+      },
+      {
+        "start": 3419.0,
+        "end": 3435.0
+      },
+      {
+        "start": 3441.0,
+        "end": 3446.0
+      },
+      {
+        "start": 3449.0,
+        "end": 3454.0
+      }
+    ],
+    "visitor_question": "What happened with the Ocean Center space?"
+  },
+  {
+    "question": "他們不是你的朋友嗎? 他們不是應該的嗎?",
+    "answer_text": "他們是朋友 但是他們的朋友只是說 說嗨什麼的 他們也是在Wikikia的開設 應該是這樣 要不然他們無緣無故將我們搬走了 給別人 因為另外一邊 應該就是這樣 但是人家經常叫 另外 叫Uncle Bill Uncle Bill主要在那裡做 其實那時在香港 在Ocean Center做商業 是最好的機會 做錢 但是呢 Uncle Bill不聽",
+    "answer_start": 3463.0,
+    "answer_end": 3510.0,
+    "start_fmt": "57:43",
+    "label": "Weren't they supposed to be your friends?",
+    "baba_segments": [
+      {
+        "start": 3464.0,
+        "end": 3466.0
+      },
+      {
+        "start": 3468.0,
+        "end": 3471.0
+      },
+      {
+        "start": 3473.0,
+        "end": 3477.0
+      },
+      {
+        "start": 3488.0,
+        "end": 3494.0
+      },
+      {
+        "start": 3496.0,
+        "end": 3498.0
+      },
+      {
+        "start": 3504.0,
+        "end": 3510.0
+      }
+    ],
+    "visitor_question": "Why did Uncle Bill leave such a good opportunity?"
+  },
+  {
+    "question": "為什麼他做錢呢?",
+    "answer_text": "因為香港那些人 那時有很多樓 很多人 很多New Building 很多人做錢 所以他們 他們的Furniture全部是Custom made 他說我在那裡多少錢 多少錢根本不說了 就是空價的 像這裡的Furniture 也是一樣 大家可以去Complete 所以 就像夏生那裡 他賺很多錢的 一個Downing Table 他們可以買 那時是40,000HKD 他Cost maybe 10,000 但是我們呢 那時 有一個爺爺 他抱怨 他說人家買12,000HKD 20,000HKD 12,000HKD 他說他的Cost是12,000HKD",
+    "answer_start": 3512.0,
+    "answer_end": 3564.0,
+    "start_fmt": "58:32",
+    "label": "Why did he make money that way?",
+    "baba_segments": [
+      {
+        "start": 3516.0,
+        "end": 3518.0
+      },
+      {
+        "start": 3521.0,
+        "end": 3528.0
+      },
+      {
+        "start": 3530.0,
+        "end": 3534.0
+      },
+      {
+        "start": 3540.0,
+        "end": 3548.0
+      },
+      {
+        "start": 3556.0,
+        "end": 3564.0
+      }
+    ],
+    "visitor_question": "How much money could you make on custom furniture?",
+    "featured": true
+  },
+  {
+    "question": "他叫什麼Design呢?",
+    "answer_text": "Ming Design Ming Design的Furniture 在China Ming Dynasty Ming Dynasty Design 但是我們呢 不肯做 爺爺不肯做 我強行去做 做了出來 就好賣了 但是好賣 變成了 夏生不喜歡 我們就買東西 跟他們一樣 我們當然便宜一點 所以 我來說應該是 Not Proof 但是我知道就是 無緣無故說了你走 But this is real world 但是有到這樣 那時在Ocean Sound做的時候 Business very good",
+    "answer_start": 3572.0,
+    "answer_end": 3617.0,
+    "start_fmt": "59:32",
+    "label": "What was his design called?",
+    "baba_segments": [
+      {
+        "start": 3572.0,
+        "end": 3580.0
+      },
+      {
+        "start": 3597.0,
+        "end": 3600.0
+      },
+      {
+        "start": 3603.0,
+        "end": 3610.0
+      },
+      {
+        "start": 3613.0,
+        "end": 3619.0
+      }
+    ],
+    "visitor_question": "What was the Ming Dynasty style all about?",
+    "featured": true
+  },
+  {
+    "question": "What was the most money you made in like a month?",
+    "answer_text": "I don't think they make any money because Hanko Piu",
+    "answer_start": 3621.0,
+    "answer_end": 3626.0,
+    "start_fmt": "60:21",
+    "label": "What was the most money made in a month?",
+    "baba_segments": [
+      {
+        "start": 3621.0,
+        "end": 3626.0
+      }
+    ],
+    "visitor_question": "Did the other shop ever do well after you left?"
+  },
+  {
+    "question": "How much revenue? Do you know?",
+    "answer_text": "I don't know 但我知道他們 因為他們 我說什麼 他們就反對什麼 因為我們來講 我們來講 好像是 我們來講 我們來講 我們來講 我們來講 我們來講 我們來講 我們來講 我們來講 我們來講 我們來講 我們來講 我們來講 我們來講 我們 No personal feeling What we do Design anything 我們就說 那個 According to 這個 Customer like What customer like Service your customer Come on You make What 好像爸爸那時 我不是告訴你 我因為那時沒有Green Card 我好像 About 7 or 6 years 沒有回香港 我沒有回香港 我沒有回香港 我回香港第一件事就是 我回香港第一件事就是 Go everywhere Go everywhere 做個survey Study How much How much Say what is selling What is not selling What what makes the business better What what makes the business better 那時 那時 那時 老下個 Business One month One month 可以make like 我聽過 那些人 Supplier 好像那些人 好像那些人 做一個 一個月 可以make like 我聽過 那些人 Cutting Wood 其他的 Furniture 有3 million 我們 可能 Maybe 2, 3 100,000 The most That difference 那時 我正將 那些 Statics 什麼事 你告訴我 Uncle Bill 聽 Uncle Bill 聽說 你 將他人 自己 自欺 自欺歪風 你知道為什麼嗎 Something about I think Something about If you just copy Worry about your competitor No No 將他人自欺 所以他現在最麻煩 有個叫Inferiority complex 他不能夠 Conquer Inferiority complex 他說 你說人家 很好 那你又弄到我 Low down on me You low down other people 但我來說那些 那些 Hard figure 意思是什麼 就是說 We can do better 你明白嗎 So did he He end up going to Going to College No He He He He did not pass High school exam So he didn't pass high school either And he went straight to Dragonwood after that That's the worst thing I So So I was Did anybody pass the high school exam So did your sister Sister Did not finish High school And then Alex was too young No no Alex also not finished No no no No pass high school High school exam If you don't pass high school exam Does that mean you don't finish high school Or that You don't go to college You cannot Can not go to college Okay But a lot of people didn't pass back then Right Yeah As I told you At least forty percent Forty to forty five percent Don't pass They have a curve So actually it's unfair But that's Their way That's the whole point So I think I think I think I think I think I think that's the whole point that's the whole point that's the whole point So how long did Dragonwood last in Hawaii Cause I remember it lasting for a while 76 to 87 something 87 Yeah that time they took back the whole whole thing We we renovate You renovate They They They took the hotel We renovate All the shops Not just us We renovate All the shops Gotta So about eleven years And it wasn't worth it to No 87 Yeah yeah yeah 76 87 It wasn't worth it to find a new Location No You know We In Hong Kong In Hawaii We took a business Very humble Why We suppose They Supply from our The own factory right They never Always They never They never They never They never They never They never on schedule We just built They They They They They Ordered They order Furniture He He didn't not give All the right With the factory to manufacture To keep Leave case Two months later Somebody Say My Gas is 他才知道,又拿出来,他就急着去找我 再继续,继续 那时候,夏生有个人很好 夏生因为他做了很多家具,他做的家具不是他的家具 他有个人叫杜生,杜生很好 他有了命令,他就给他家具,哪个家具才好,其他的 其他的小工厂,这个做这个,这个做那个 然后他每个星期都会检查他的进步 但他从来没有检查他的进步 他一直继续,继续 所以有时候,我们回到香港 在海洋中心的工具店 他们在香港买的最多的纸巾 和纸巾是很好的利润 每个星期,在这个周末 这么多人来的时候 他们就拿了一个参考,去 给一个参考,弄得乱了,人家想买东西都不行 我已经说了很多,这么多次,为什么这个最好的",
+    "answer_start": 3628.0,
+    "answer_end": 3989.7200000000003,
+    "start_fmt": "60:28",
+    "label": "How much was the revenue?",
+    "baba_segments": [
+      {
+        "start": 3628.0,
+        "end": 3629.0
+      },
+      {
+        "start": 3650.0,
+        "end": 3654.0
+      },
+      {
+        "start": 3656.0,
+        "end": 3663.0
+      },
+      {
+        "start": 3666.0,
+        "end": 3670.0
+      },
+      {
+        "start": 3673.0,
+        "end": 3685.0
+      },
+      {
+        "start": 3689.0,
+        "end": 3693.0
+      },
+      {
+        "start": 3695.0,
+        "end": 3696.0
+      },
+      {
+        "start": 3700.0,
+        "end": 3701.0
+      },
+      {
+        "start": 3706.0,
+        "end": 3708.0
+      },
+      {
+        "start": 3713.0,
+        "end": 3715.0
+      },
+      {
+        "start": 3721.0,
+        "end": 3724.0
+      },
+      {
+        "start": 3730.0,
+        "end": 3735.0
+      },
+      {
+        "start": 3738.0,
+        "end": 3741.0
+      },
+      {
+        "start": 3743.0,
+        "end": 3744.0
+      },
+      {
+        "start": 3748.0,
+        "end": 3751.0
+      },
+      {
+        "start": 3753.0,
+        "end": 3754.0
+      },
+      {
+        "start": 3756.0,
+        "end": 3757.0
+      },
+      {
+        "start": 3759.0,
+        "end": 3762.0
+      },
+      {
+        "start": 3767.0,
+        "end": 3776.0
+      },
+      {
+        "start": 3778.0,
+        "end": 3801.0
+      },
+      {
+        "start": 3803.0,
+        "end": 3814.0
+      },
+      {
+        "start": 3819.0,
+        "end": 3827.0
+      },
+      {
+        "start": 3831.0,
+        "end": 3841.0
+      },
+      {
+        "start": 3843.0,
+        "end": 3855.0
+      },
+      {
+        "start": 3857.0,
+        "end": 3882.0
+      },
+      {
+        "start": 3888.0,
+        "end": 3904.0
+      },
+      {
+        "start": 3907.0,
+        "end": 3910.32
+      },
+      {
+        "start": 3912.36,
+        "end": 3989.7200000000003
+      }
+    ],
+    "visitor_question": "How did disagreements affect the business?"
+  },
+  {
+    "question": "产品,为什么不做好一点呢?",
+    "answer_text": "因为说不是做好一点 这个东西,当你做一次,最少做五套 或者十套,什么的,在店里 所以你只要发送,就发送 不要把那个桌子的参考拿出来 那是他们的计划 有趣 有趣,还有说这个有趣的一件事",
+    "answer_start": 3995.4,
+    "answer_end": 4024.08,
+    "start_fmt": "66:35",
+    "label": "Why didn't you make better quality products?",
+    "baba_segments": [
+      {
+        "start": 3995.4,
+        "end": 4011.52
+      },
+      {
+        "start": 4019.2000000000003,
+        "end": 4024.08
+      }
+    ],
+    "visitor_question": "How did the production side work?"
+  },
+  {
+    "question": "还是不明白,是什么呢?",
+    "answer_text": "我们那时刚刚开始了这个Jergenwood Furniture 在Kenton Road,和你妈妈结婚没多久 我们开始了这个Furniture 有一个Japanese client 他看到我们一种,日本的一家企业公司的名字啊 Kenton Road,买的很贵的 他说,三四千港币,那种很贵的 他第一个order给我们,100,000 第二个order,有两个order,另外一个order也是100,000 就是说,你第一个order给了之后 第二个order又去 那么 那么,那时候100,000是一个apartment的价格 那时候我们做过在 比利界的那些apartment 100,000 那么那个人 做了 做了那个 一个order之后 第二个order就cancel 那时候,但是我们已经做好了 看看是为什么,因为一个日本人,所以我 我和 Uncle Bill一起去,他是Fukuoka来的,我们就去日本,去一个factory看 他给我看 No, no 他说你看看 你看看 因为那些Keto Company的那个 Painting,他的varnish 是most important most important 但是,他们做的almost Paint very less",
+    "answer_start": 4030.52,
+    "answer_end": 4143.82,
+    "start_fmt": "67:10",
+    "label": "What exactly was unclear?",
+    "baba_segments": [
+      {
+        "start": 4030.52,
+        "end": 4081.26
+      },
+      {
+        "start": 4085.4,
+        "end": 4096.16
+      },
+      {
+        "start": 4104.08,
+        "end": 4121.799999999999
+      },
+      {
+        "start": 4128.2,
+        "end": 4143.82
+      }
+    ],
+    "visitor_question": "Tell us about your first big Japanese client.",
+    "featured": true
+  },
+  {
+    "question": "你阿爷为什么?",
+    "answer_text": "那时候 他找了那个人,就是说 找不到人 好的Painting,他选了那个人 那个人就这样有了 这样你看,脑型都很厉害,那时候 如果那时候那个人的脑袋 因为我们 Doing no good 那么他就给了人家 给了another人 那时候人家就是 他没有factory的,那个人 他就去人家那里订 我们的店在这里 另外一个店在这里 因为我们failed,所以他就去订 那个人 后来就 发达了 给了钱,但是我们就 lose Kill our business That's a very very sad thing,这个事 那时候我还在想,哇,多好啊 因为,一位老人可以买一个宅,你说多厉害啊 Yeah 他很开心,说来了夏威夷,但是他一直是这样 What was the first place you lived in",
+    "answer_start": 4150.78,
+    "answer_end": 4223.9800000000005,
+    "start_fmt": "69:10",
+    "label": "Why did your grandfather do that?",
+    "baba_segments": [
+      {
+        "start": 4152.32,
+        "end": 4155.12
+      },
+      {
+        "start": 4157.179999999999,
+        "end": 4167.16
+      },
+      {
+        "start": 4168.96,
+        "end": 4174.839999999999
+      },
+      {
+        "start": 4176.88,
+        "end": 4181.24
+      },
+      {
+        "start": 4183.8,
+        "end": 4187.900000000001
+      },
+      {
+        "start": 4191.4800000000005,
+        "end": 4193.28
+      },
+      {
+        "start": 4195.32,
+        "end": 4209.900000000001
+      },
+      {
+        "start": 4215.02,
+        "end": 4223.9800000000005
+      }
+    ],
+    "visitor_question": "What happened with that lost painting order?"
+  },
+  {
+    "question": "That was the first place you lived in?",
+    "answer_text": "No, no, no,我那时候是 我自己来,你妈妈是自己来的 我来住在Lilliat Square Four men Share one, two bedroom 就是 就这样,就这样出来 Is that the same place that",
+    "answer_start": 4230.12,
+    "answer_end": 4252.2,
+    "start_fmt": "70:30",
+    "label": "Was that the first place you lived?",
+    "baba_segments": [
+      {
+        "start": 4230.12,
+        "end": 4246.56
+      },
+      {
+        "start": 4248.360000000001,
+        "end": 4252.2
+      }
+    ],
+    "visitor_question": "How did you first come to Hawaii?"
+  },
+  {
+    "question": "You have now in Lilliat Square?",
+    "answer_text": "Same building 那么后来 有人走了,那么后来爸爸就 搬了来 旁边一个 Nahuahua,一个小建筑",
+    "answer_start": 4254.24,
+    "answer_end": 4266.06,
+    "start_fmt": "70:54",
+    "label": "Did you live in Lilliat Square?",
+    "baba_segments": [
+      {
+        "start": 4254.24,
+        "end": 4261.92
+      },
+      {
+        "start": 4263.76,
+        "end": 4266.06
+      }
+    ],
+    "visitor_question": "Where did you live when you first arrived?"
+  },
+  {
+    "question": "You lived there too?",
+    "answer_text": "Yeah,那时候我和Uncle Allen Ma share Uncle Allen Ma是 他 Uncle Daniel介绍了 Uncle Allen Ma 我和他share住那里 住那里的时候 有一次Uncle Allen Ma 他那时候是做Travel Business 他去了Trick 那么 有,有 那时候刚刚,谁 那个 啊 Uncle Daniel,他的Girlfriend Eva 他,他知道我想打Tennis 他说想教我Tennis 借了一个Tennis Maker给我 就是那,就是那一晚 有个Fifth Come in Robert Come in 那么 他supposed是偷东西,但是他醒了我 醒了我,那么他就 拿个刀来 猛打我 这样啊 那么后来我又喝完了 因为喝完了",
+    "answer_start": 4276.820000000001,
+    "answer_end": 4341.42,
+    "start_fmt": "71:16",
+    "label": "Did you live there too?",
+    "baba_segments": [
+      {
+        "start": 4276.820000000001,
+        "end": 4283.4800000000005
+      },
+      {
+        "start": 4285.52,
+        "end": 4300.68
+      },
+      {
+        "start": 4311.16,
+        "end": 4323.72
+      },
+      {
+        "start": 4325.8,
+        "end": 4334.26
+      },
+      {
+        "start": 4338.860000000001,
+        "end": 4340.66
+      }
+    ],
+    "visitor_question": "How did you meet Uncle Allen Ma?"
+  },
+  {
+    "question": "Did you have stitches and everything?",
+    "answer_text": "Yeah, something like that 就是说 那时候已经开了Jerking Wood 就是下雪 那么 那么后来接着就你 你妈妈和Marlene来了 那么我们就 Rank这个 22-11 Move to 22-11 那时候我们 对了,22-11 那么后来 他 后来不知道怎么,他要卖之类的,所以我说我们买了它 29-5 他说他要买,那时候 那时候买回来 是这个 40,000 那么我们没有钱借的",
+    "answer_start": 4342.96,
+    "answer_end": 4387.08,
+    "start_fmt": "72:22",
+    "label": "Did you need stitches?",
+    "baba_segments": [
+      {
+        "start": 4342.96,
+        "end": 4348.6
+      },
+      {
+        "start": 4352.18,
+        "end": 4356.58
+      },
+      {
+        "start": 4360.68,
+        "end": 4364.0
+      },
+      {
+        "start": 4366.820000000001,
+        "end": 4368.860000000001
+      },
+      {
+        "start": 4372.96,
+        "end": 4377.820000000001
+      },
+      {
+        "start": 4379.360000000001,
+        "end": 4380.900000000001
+      },
+      {
+        "start": 4385.56,
+        "end": 4387.08
+      }
+    ],
+    "visitor_question": "What happened when Uncle Allen was away that time?"
+  },
+  {
+    "question": "那么他们那时候有什么做呢? Agreement of Sale,你有没有听过?",
+    "answer_text": "Not really Agreement of Sale means You put down down payment 第一次我们 pay这个 5000 down 然后呢 You pay interest 5 years at 12% 那么那个",
+    "answer_start": 4392.46,
+    "answer_end": 4412.18,
+    "start_fmt": "73:12",
+    "label": "Had you heard of Agreement of Sale?",
+    "baba_segments": [
+      {
+        "start": 4392.46,
+        "end": 4397.320000000001
+      },
+      {
+        "start": 4400.66,
+        "end": 4406.8
+      }
+    ],
+    "visitor_question": "How did you end up in your first real home here?"
+  },
+  {
+    "question": "Agreement of Sale呢?",
+    "answer_text": "5 years I find you pay interest at 12% at that time 5 years later You still owe the same amount 40,000 less 5,000, you have a 35,000 5 years later You still owe 35,000 That's the agreement of sale So it's not good unless you're really, you have no money Yeah yeah yeah That's how So I think I think I think I think I'm going to go to the Below So I think I'm going to Below your skyline Below your skyline Below your skyline",
+    "answer_start": 4413.46,
+    "answer_end": 4452.94,
+    "start_fmt": "73:33",
+    "label": "What happened with the Agreement of Sale?",
+    "baba_segments": [
+      {
+        "start": 4415.5,
+        "end": 4424.22
+      },
+      {
+        "start": 4426.78,
+        "end": 4432.66
+      },
+      {
+        "start": 4435.4800000000005,
+        "end": 4444.74
+      },
+      {
+        "start": 4446.28,
+        "end": 4452.94
+      }
+    ],
+    "visitor_question": "What was the agreement of sale arrangement?"
+  },
+  {
+    "question": "Also in Aloy right?",
+    "answer_text": "Yeah I want to go to Below My question is Metco Metco is your mother's Gasic 1980 Good bye Then we moved Metco to there There because I live there a lot I know you But I'm not good So I rented it out 2121 2121 2121 2603 Ah So I bought it We bought that one too But we sold that one Yeah we sold that later We sold that later And then Then there And then we came here This one",
+    "answer_start": 4454.22,
+    "answer_end": 4498.3,
+    "start_fmt": "74:14",
+    "label": "Was that also in Aloy?",
+    "baba_segments": [
+      {
+        "start": 4454.72,
+        "end": 4455.74
+      },
+      {
+        "start": 4457.8,
+        "end": 4461.64
+      },
+      {
+        "start": 4467.02,
+        "end": 4476.78
+      },
+      {
+        "start": 4485.74,
+        "end": 4498.3
+      }
+    ],
+    "visitor_question": "How did that interest payment work out?"
+  },
+  {
+    "question": "How many years have you been here now? How many years have you been here now?",
+    "answer_text": "我认为这是1988年,现在是26年了。 这是你以前住过的最长房子。 这是最好的位置,有个浴缸。 其实这个最好的地方是中间的地方。 不要担心,两边都是。 我们在库尼亚住了一年。 我们住了一年,好像是1986年。 不,好像是1991年。 我认为是比那些更久的。 我认为是比那些更久的。 我记得是1980年。 我还在聂佩特的家。 我还在聂佩特的家,当时是那时候。 好的,我觉得时间到了。 谢谢你,我们将再做一个短片。 谢谢你唱歌。",
+    "answer_start": 4503.46,
+    "answer_end": 4570.46,
+    "start_fmt": "75:03",
+    "label": "How many years have you lived here?",
+    "baba_segments": [
+      {
+        "start": 4503.46,
+        "end": 4568.46
+      }
+    ],
+    "visitor_question": "How did you end up in your final home?"
+  }
+]

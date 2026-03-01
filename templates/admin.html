@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>你好爸爸 — Analytics</title>
+  <link rel="stylesheet" href="/static/style.css" />
+  <style>
+    .admin-wrap { max-width: 860px; margin: 0 auto; padding: 40px 24px; }
+    .stat-row { display: flex; gap: 20px; margin: 28px 0; flex-wrap: wrap; }
+    .stat-card {
+      background: var(--page);
+      border: 1px solid var(--border);
+      border-top: 3px solid var(--gold);
+      border-radius: 4px;
+      padding: 20px 28px;
+      flex: 1;
+      min-width: 160px;
+    }
+    .stat-card .number {
+      font-family: var(--font-display);
+      font-weight: 900;
+      font-size: 2.4rem;
+      color: var(--ink);
+      line-height: 1;
+    }
+    .stat-card .label {
+      font-family: var(--font-display);
+      font-weight: 900;
+      font-size: 0.65rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+    table { width: 100%; border-collapse: collapse; margin-top: 24px; }
+    th {
+      font-family: var(--font-display);
+      font-weight: 900;
+      font-size: 0.65rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--muted);
+      text-align: left;
+      padding: 10px 12px;
+      border-bottom: 2px solid var(--border);
+    }
+    td {
+      font-family: var(--font-body);
+      font-size: 0.95rem;
+      padding: 12px 12px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+      color: var(--ink);
+    }
+    tr:hover td { background: #f5ece0; }
+    .tag {
+      display: inline-block;
+      background: #f5e0d0;
+      color: var(--red);
+      font-family: var(--font-display);
+      font-weight: 900;
+      font-size: 0.6rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 2px 8px;
+      border-radius: 99px;
+      margin: 1px;
+    }
+    .ts { color: var(--muted); font-size: 0.82rem; white-space: nowrap; }
+    h2 {
+      font-family: var(--font-display);
+      font-weight: 900;
+      font-size: 1rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--ink);
+      margin: 36px 0 4px;
+    }
+  </style>
+</head>
+<body>
+  <div class="admin-wrap">
+    <div class="monogram" style="text-align:left">爸.</div>
+    <h1 style="font-family:var(--font-display);font-weight:900;font-size:1.8rem;color:var(--ink);margin:8px 0 4px;text-transform:uppercase">Analytics</h1>
+    <p style="font-family:var(--font-body);font-style:italic;font-size:0.9rem;color:var(--muted)">你好爸爸 — conversation log</p>
+
+    <div class="stat-row" id="stats">
+      <div class="stat-card"><div class="number" id="total-count">—</div><div class="label">Total questions</div></div>
+    </div>
+
+    <h2>Recent Questions</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>When</th>
+          <th>Question</th>
+          <th>Timestamps cited</th>
+          <th>Length</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+
+  <script>
+    const token = new URLSearchParams(location.search).get("token");
+
+    function fmt(ts) {
+      const d = new Date(ts);
+      return d.toLocaleDateString("en-GB", { day:"numeric", month:"short" })
+           + " " + d.toLocaleTimeString("en-GB", { hour:"2-digit", minute:"2-digit" });
+    }
+
+    function tagify(cited) {
+      if (!cited) return "—";
+      return cited.split(", ").map(t => `<span class="tag">${t}</span>`).join(" ");
+    }
+
+    fetch(`/admin/data?token=${token}`)
+      .then(r => r.json())
+      .then(data => {
+        if (data.error) { document.body.innerHTML += `<p style="color:red">${data.error}</p>`; return; }
+
+        document.getElementById("total-count").textContent = data.total;
+
+        const tbody = document.getElementById("rows");
+        data.rows.forEach(r => {
+          const tr = document.createElement("tr");
+          tr.innerHTML = `
+            <td class="ts">${fmt(r.created_at)}</td>
+            <td>${r.question || "—"}</td>
+            <td>${tagify(r.timestamps_cited)}</td>
+            <td>${r.response_length || 0} chars</td>
+          `;
+          tbody.appendChild(tr);
+        });
+      });
+  </script>
+</body>
+</html>

@@ -198,7 +198,9 @@ def admin_data():
         from logger import _get_client
         client = _get_client()
         if client is None:
-            return Response(json.dumps({"error": "Supabase not configured"}), mimetype="application/json")
+            url_set = bool(os.environ.get("SUPABASE_URL"))
+            key_set = bool(os.environ.get("SUPABASE_KEY"))
+            return Response(json.dumps({"error": f"Supabase not configured (URL={'set' if url_set else 'MISSING'}, KEY={'set' if key_set else 'MISSING'})"}), mimetype="application/json")
         rows = (
             client.table("questions")
             .select("*")

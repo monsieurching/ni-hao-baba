@@ -5,8 +5,10 @@ No Claude. Responses are Baba's actual recorded words.
 
 import json
 import os
+import shutil
 import subprocess
 import threading
+import time
 from flask import Flask, request, Response, render_template
 from dotenv import load_dotenv
 from rag import retrieve, get_all_questions
@@ -17,7 +19,6 @@ load_dotenv()
 
 app = Flask(__name__)
 
-import shutil
 _ffmpeg_candidates = [
     shutil.which("ffmpeg"),
     "/opt/homebrew/bin/ffmpeg",  # macOS Homebrew
@@ -27,6 +28,33 @@ _ffmpeg_candidates = [
 FFMPEG = next((p for p in _ffmpeg_candidates if p and os.path.exists(p)), "ffmpeg")
 AUDIO_PATH = os.path.join(AUDIO_DIR, AUDIO_FILES[0]["file"])
 
+# ── Popularity cache ─────────────────────────────────────────────────
+_pop_cache = {"counts": None, "ts": 0.0}
+_POP_TTL   = 300  # seconds
+
+
+def _get_popular_counts():
+    """Return {chip_label: play_count} from Supabase, cached for 5 min."""
+    now = time.time()
+    if _pop_cache["counts"] is not None and now - _pop_cache["ts"] < _POP_TTL:
+        return _pop_cache["counts"]
+    try:
+        from logger import _get_client
+        client = _get_client()
+        if client is None:
+            return {}
+        rows = client.table("questions").select("matched_question").execute()
+        counts = {}
+        for r in rows.data:
+            q = r.get("matched_question", "").strip()
+            if q:
+                counts[q] = counts.get(q, 0) + 1
+        _pop_cache["counts"] = counts
+        _pop_cache["ts"] = now
+        return counts
+    except Exception:
+        return {}
+
 
 @app.route("/")
 def index():
@@ -35,7 +63,8 @@ def index():
 
 @app.route("/questions")
 def questions():
-    qs = get_all_questions()
+    popular = _get_popular_counts()
+    qs = get_all_questions(popular_order=popular)
     return Response(json.dumps(qs, ensure_ascii=False), mimetype="application/json")
 
 
@@ -54,9 +83,11 @@ def chat():
             mimetype="application/json",
         )
 
+    matched_label = pair.get("visitor_question", pair.get("label", pair.get("question", "")))
+
     threading.Thread(
         target=log_question,
-        args=(query, pair.get("answer_text", "")[:300]),
+        args=(query, pair.get("answer_text", "")[:300], matched_label),
         daemon=True,
     ).start()
 
@@ -102,7 +133,6 @@ def clip():
             return Response(status=400)
 
     if len(segs) == 1:
-        # Simple single-segment extraction
         cmd = [
             FFMPEG,
             "-ss", str(segs[0][0]),
@@ -112,7 +142,6 @@ def clip():
             "-f",  "mp3", "pipe:1",
         ]
     else:
-        # Multi-segment: stitch with concat filter
         filter_parts = []
         for i, (s, e) in enumerate(segs):
             filter_parts.append(
@@ -174,7 +203,7 @@ def admin_data():
             client.table("questions")
             .select("*")
             .order("created_at", desc=True)
-            .limit(200)
+            .limit(500)
             .execute()
         )
         return Response(

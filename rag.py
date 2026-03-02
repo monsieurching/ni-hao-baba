@@ -60,8 +60,12 @@ def _get_qa_pairs():
     return _qa_pairs
 
 
-def get_all_questions() -> list[dict]:
-    """Return chip list: custom chips first, then featured, then the rest."""
+def get_all_questions(popular_order=None) -> list[dict]:
+    """Return chip list: custom chips first, then featured, then the rest.
+
+    popular_order: optional dict mapping question label → play count (descending).
+    When provided, the 'rest' group is sorted by popularity.
+    """
     pairs = _get_qa_pairs()
 
     custom = [
@@ -79,6 +83,9 @@ def get_all_questions() -> list[dict]:
         {"id": i, "question": p.get("visitor_question", p.get("label", p["question"])), "start_fmt": p["start_fmt"]}
         for i, p in enumerate(pairs) if not p.get("featured")
     ]
+
+    if popular_order:
+        rest.sort(key=lambda q: -popular_order.get(q["question"], 0))
 
     return custom + featured + rest
 

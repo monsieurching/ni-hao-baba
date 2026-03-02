@@ -29,17 +29,18 @@ def _extract_timestamps(response: str) -> str:
     return ", ".join(sorted(set(matches))) if matches else ""
 
 
-def log_question(question: str, response: str):
+def log_question(question: str, response: str, matched_question: str = ""):
     """Insert one row into the questions table. Fails silently."""
     try:
         client = _get_client()
         if client is None:
             return
         client.table("questions").insert({
-            "question":         question[:500],
-            "response_preview": response[:300],
-            "timestamps_cited": _extract_timestamps(response),
-            "response_length":  len(response),
+            "question":          question[:500],
+            "response_preview":  response[:300],
+            "timestamps_cited":  _extract_timestamps(response),
+            "response_length":   len(response),
+            "matched_question":  matched_question[:500],
         }).execute()
     except Exception:
         pass  # Never crash the app over logging

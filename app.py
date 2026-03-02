@@ -216,6 +216,17 @@ def admin_data():
         return Response(json.dumps({"error": str(e)}), mimetype="application/json")
 
 
+@app.route("/admin/env")
+def admin_env():
+    token       = request.args.get("token", "")
+    admin_token = os.environ.get("ADMIN_TOKEN", "")
+    if not admin_token or token != admin_token:
+        return Response("Unauthorized", status=401)
+    # Show all env var NAMES that contain "SUPA" or "DB" (not values)
+    keys = [k for k in os.environ.keys() if any(x in k.upper() for x in ["SUPA", "DB", "RAILWAY", "PORT"])]
+    return Response(json.dumps(sorted(keys)), mimetype="application/json")
+
+
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8080))
     app.run(debug=False, threaded=True, host="0.0.0.0", port=port)

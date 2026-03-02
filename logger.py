@@ -12,7 +12,6 @@ _client = None
 
 def _get_client():
     global _client
-    load_dotenv()
     url = os.environ.get("SUPABASE_URL", "")
     key = os.environ.get("SUPABASE_KEY", "")
     if not url or not key:

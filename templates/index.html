@@ -41,14 +41,28 @@
     </div>
   </div>
 
+  <!-- Persistent audio element: avoids autoplay policy issues across browsers -->
+  <audio id="baba-audio" preload="none"></audio>
+
   <script>
     const messagesEl = document.getElementById("messages");
     const inputEl    = document.getElementById("user-input");
     const sendBtn    = document.getElementById("send-btn");
     const chipsEl    = document.getElementById("question-chips");
 
-    let isLoading    = false;
-    let currentAudio = null;
+    let isLoading = false;
+    const audioEl = document.getElementById("baba-audio");
+
+    // Prime audio on first user interaction so iOS/Safari allows playback
+    // after async gaps (fetch). Must be called synchronously within a gesture.
+    let audioPrimed = false;
+    function primeAudio() {
+      if (audioPrimed) return;
+      audioPrimed = true;
+      const p = audioEl.play();
+      if (p) p.catch(() => {});
+      audioEl.pause();
+    }
 
     // ── Load question chips ──────────────────────────────────────────
     fetch("/questions")
@@ -74,6 +88,7 @@
           if (q.custom_segments) {
             // Custom chips play audio directly without going through /chat
             chip.addEventListener("click", () => {
+              primeAudio();
               appendMessage("user", escHtml(q.question));
               const segs = q.custom_segments;
               const dur  = segs.reduce((s, seg) => s + (seg[1] - seg[0]), 0);
@@ -134,15 +149,13 @@
     }
 
     function playClip(start, end, segments) {
-      if (currentAudio) {
-        currentAudio.pause();
-        currentAudio = null;
-      }
       const url = segments
         ? `/clip?segments=${encodeURIComponent(JSON.stringify(segments))}`
         : `/clip?start=${start}&end=${end}`;
-      currentAudio = new Audio(url);
-      currentAudio.play().catch(() => {});
+      audioEl.pause();
+      audioEl.src = url;
+      audioEl.load();
+      audioEl.play().catch(() => {});
     }
 
     // ── Send ─────────────────────────────────────────────────────────
@@ -150,6 +163,7 @@
       const text = inputEl.value.trim();
       if (!text || isLoading) return;
 
+      primeAudio(); // Must be called synchronously before any await
       inputEl.value = "";
       appendMessage("user", escHtml(text));
       setLoading(true);

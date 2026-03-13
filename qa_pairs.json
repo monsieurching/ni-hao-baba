@@ -28,7 +28,8 @@
         "end": 420.04
       }
     ],
-    "visitor_question": "Can we start with your early life?"
+    "visitor_question": "Can we start with your early life?",
+    "question_zh": "我們可以從你的早年生活開始嗎?"
   },
   {
     "question": "周,你记得什么?",
@@ -43,7 +44,8 @@
         "end": 425.04
       }
     ],
-    "visitor_question": "Where would you like to begin?"
+    "visitor_question": "Where would you like to begin?",
+    "question_zh": "你想從哪裡開始?"
   },
   {
     "question": "你用广东话是吗? 好吗?用英文吗?",
@@ -70,7 +72,8 @@
         "end": 510.04
       }
     ],
-    "visitor_question": "Tell us about where you were born."
+    "visitor_question": "Tell us about where you were born.",
+    "question_zh": "請告訴我們你出生在哪裡。"
   },
   {
     "question": "10月的星期,什么日子? 17?",
@@ -85,7 +88,8 @@
         "end": 528.04
       }
     ],
-    "visitor_question": "What is your exact birthday?"
+    "visitor_question": "What is your exact birthday?",
+    "question_zh": "你確切的生日是什麼時候?"
   },
   {
     "question": "你叫什么名字? 你叫什么名字?",
@@ -116,7 +120,8 @@
         "end": 678.04
       }
     ],
-    "visitor_question": "What is your full name?"
+    "visitor_question": "What is your full name?",
+    "question_zh": "你的全名是什麼?"
   },
   {
     "question": "纳指树就是什么呢?",
@@ -135,7 +140,8 @@
         "end": 706.04
       }
     ],
-    "visitor_question": "What do you remember about the trees back home?"
+    "visitor_question": "What do you remember about the trees back home?",
+    "question_zh": "你還記得家鄉的樹木有什麼嗎?"
   },
   {
     "question": "油是用来做什么?",
@@ -150,7 +156,8 @@
         "end": 727.04
       }
     ],
-    "visitor_question": "How long did you live in the village?"
+    "visitor_question": "How long did you live in the village?",
+    "question_zh": "你在村子裡住了多久?"
   },
   {
     "question": "你那里有多久?",
@@ -169,7 +176,8 @@
         "end": 770.04
       }
     ],
-    "visitor_question": "What happened when you first went back to visit?"
+    "visitor_question": "What happened when you first went back to visit?",
+    "question_zh": "你第一次回去探訪時發生了什麼事？"
   },
   {
     "question": "你记得她的名字? 她的名字是什么?",
@@ -188,7 +196,8 @@
         "end": 797.04
       }
     ],
-    "visitor_question": "How did you still remember your Wenzhou dialect?"
+    "visitor_question": "How did you still remember your Wenzhou dialect?",
+    "question_zh": "你是怎樣還記得溫州方言的？"
   },
   {
     "question": "阿爷怎么来到香港?",
@@ -236,7 +245,8 @@
       }
     ],
     "visitor_question": "Tell us about your grandfather's story.",
-    "featured": true
+    "featured": true,
+    "question_zh": "請告訴我們你祖父的故事。"
   },
   {
     "question": "- 那是你去到香港的方式吗?",
@@ -252,7 +262,8 @@
       }
     ],
     "visitor_question": "What was it like arriving in Hong Kong?",
-    "featured": true
+    "featured": true,
+    "question_zh": "抵達香港時是什麼樣的感覺？"
   },
   {
     "question": "為什麼呢?我們不懂得韓國語言",
@@ -271,7 +282,8 @@
         "end": 1160.04
       }
     ],
-    "visitor_question": "How did you learn English when you arrived?"
+    "visitor_question": "How did you learn English when you arrived?",
+    "question_zh": "你到達時是如何學英文的？"
   },
   {
     "question": "他們有夜校給孩子嗎?",
@@ -290,7 +302,8 @@
         "end": 1201.04
       }
     ],
-    "visitor_question": "What was Hong Kong like for new immigrants then?"
+    "visitor_question": "What was Hong Kong like for new immigrants then?",
+    "question_zh": "那時香港對新移民來說是什麼樣子的？"
   },
   {
     "question": "你記得你住在香港嗎? 你第一次在香港的地方是哪裡?",
@@ -317,7 +330,8 @@
         "end": 1266.04
       }
     ],
-    "visitor_question": "Where did your family live in Hong Kong?"
+    "visitor_question": "Where did your family live in Hong Kong?",
+    "question_zh": "你的家人在香港住在哪裡？"
   },
   {
     "question": "那不是你家庭嗎? 不是你家庭嗎?",
@@ -336,7 +350,8 @@
         "end": 1304.04
       }
     ],
-    "visitor_question": "How many of you shared that small space?"
+    "visitor_question": "How many of you shared that small space?",
+    "question_zh": "你們有多少人共用那個小空間？"
   },
   {
     "question": "然後,兩張床,對嗎?",
@@ -380,7 +395,8 @@
       }
     ],
     "visitor_question": "How did you all sleep in one room?",
-    "featured": true
+    "featured": true,
+    "question_zh": "你們怎麼都睡在一個房間裡？"
   },
   {
     "question": "她是政府工人嗎?",
@@ -395,7 +411,8 @@
         "end": 1403.04
       }
     ],
-    "visitor_question": "What did your mother do for work?"
+    "visitor_question": "What did your mother do for work?",
+    "question_zh": "你媽媽以前做什麼工作?"
   },
   {
     "question": "那,那你知道她繪製什麼衣服嗎?",
@@ -410,7 +427,8 @@
         "end": 1410.04
       }
     ],
-    "visitor_question": "What kind of factory work was it?"
+    "visitor_question": "What kind of factory work was it?",
+    "question_zh": "那是什麼樣的工廠工作？"
   },
   {
     "question": "誰買菜,誰煮飯呢?",
@@ -430,7 +448,8 @@
       }
     ],
     "visitor_question": "Did you help out at home as a child?",
-    "featured": true
+    "featured": true,
+    "question_zh": "你小時候有幫忙做家務嗎?"
   },
   {
     "question": "你比阿姨艾米多年?",
@@ -445,7 +464,8 @@
         "end": 1479.04
       }
     ],
-    "visitor_question": "How old were your siblings?"
+    "visitor_question": "How old were your siblings?",
+    "question_zh": "你的兄弟姐妹多大了？"
   },
   {
     "question": "哦,真的嗎?",
@@ -464,7 +484,8 @@
         "end": 1498.04
       }
     ],
-    "visitor_question": "What do you remember about your youngest aunt?"
+    "visitor_question": "What do you remember about your youngest aunt?",
+    "question_zh": "你對你最年輕的姑媽（或阿姨）有什麼印象？"
   },
   {
     "question": "你知道為什麼嗎?",
@@ -484,7 +505,8 @@
       }
     ],
     "visitor_question": "Why did your aunt never get married?",
-    "featured": true
+    "featured": true,
+    "question_zh": "你的姑姑為什麼從來沒有結婚？"
   },
   {
     "question": "我們不知道你媽媽的事,你能不能告訴我?",
@@ -503,7 +525,8 @@
         "end": 1568.04
       }
     ],
-    "visitor_question": "What was your mother like?"
+    "visitor_question": "What was your mother like?",
+    "question_zh": "你的母親是什麼樣的人？"
   },
   {
     "question": "她在香港很久了嗎? 她在香港很久了嗎?",
@@ -531,7 +554,8 @@
       }
     ],
     "visitor_question": "How long was your mother in Hong Kong?",
-    "featured": true
+    "featured": true,
+    "question_zh": "你母親在香港待了多長時間?"
   },
   {
     "question": "那你爸爸呢?",
@@ -623,7 +647,8 @@
       }
     ],
     "visitor_question": "What was your father like as a worker?",
-    "featured": true
+    "featured": true,
+    "question_zh": "你父親作為一個工作者是什麼樣的？"
   },
   {
     "question": "Oh, really?",
@@ -642,7 +667,8 @@
         "end": 1842.04
       }
     ],
-    "visitor_question": "Did your father's apprentices respect him?"
+    "visitor_question": "Did your father's apprentices respect him?",
+    "question_zh": "你父親的徒弟尊重他嗎?"
   },
   {
     "question": "你工作過在工廠裡嗎?",
@@ -669,7 +695,8 @@
         "end": 1880.04
       }
     ],
-    "visitor_question": "Did you learn woodworking from your father?"
+    "visitor_question": "Did you learn woodworking from your father?",
+    "question_zh": "你是從你父親那裡學到木工的嗎?"
   },
   {
     "question": "你知道為什麼嗎?",
@@ -696,7 +723,8 @@
         "end": 1912.04
       }
     ],
-    "visitor_question": "Can you show us how the traditional joinery worked?"
+    "visitor_question": "Can you show us how the traditional joinery worked?",
+    "question_zh": "你能向我們展示傳統木工接榫是如何運作的嗎?"
   },
   {
     "question": "那是什麼意思呢?",
@@ -731,7 +759,8 @@
         "end": 1962.04
       }
     ],
-    "visitor_question": "What was the difference between Chinese and Western methods?"
+    "visitor_question": "What was the difference between Chinese and Western methods?",
+    "question_zh": "中文和西方方法之間的區別是什麼?"
   },
   {
     "question": "學習任何東西,對嗎?",
@@ -750,7 +779,8 @@
         "end": 1979.04
       }
     ],
-    "visitor_question": "How did your grandfather feel about your ideas?"
+    "visitor_question": "How did your grandfather feel about your ideas?",
+    "question_zh": "你的祖父對你的想法有什麼看法？"
   },
   {
     "question": "為什麼呢?",
@@ -765,7 +795,8 @@
         "end": 1988.04
       }
     ],
-    "visitor_question": "Tell us about a difficult moment in the business."
+    "visitor_question": "Tell us about a difficult moment in the business.",
+    "question_zh": "請告訴我們業務中的一個困難時刻。"
   },
   {
     "question": "為什麼呢?",
@@ -784,7 +815,8 @@
         "end": 1998.04
       }
     ],
-    "visitor_question": "What happened with the bar piece?"
+    "visitor_question": "What happened with the bar piece?",
+    "question_zh": "酒吧的那件事發生了什麼?"
   },
   {
     "question": "你去過學校嗎? 在香港,你去過學校嗎? 你開始學校的時候,你去過了嗎?",
@@ -803,7 +835,8 @@
         "end": 2026.04
       }
     ],
-    "visitor_question": "How did you find your first school in Hong Kong?"
+    "visitor_question": "How did you find your first school in Hong Kong?",
+    "question_zh": "你是怎樣找到你在香港的第一間學校的?"
   },
   {
     "question": "是什麼呢?",
@@ -818,7 +851,8 @@
         "end": 2034.04
       }
     ],
-    "visitor_question": "Was it a proper government school?"
+    "visitor_question": "Was it a proper government school?",
+    "question_zh": "那是一所正規的公立學校嗎？"
   },
   {
     "question": "為什麼呢?",
@@ -837,7 +871,8 @@
         "end": 2080.04
       }
     ],
-    "visitor_question": "How did the school system work for you?"
+    "visitor_question": "How did the school system work for you?",
+    "question_zh": "學校教育制度對你的幫助如何?"
   },
   {
     "question": "那那個學校怎麼樣?",
@@ -892,7 +927,8 @@
         "end": 2174.04
       }
     ],
-    "visitor_question": "How many schools did you attend?"
+    "visitor_question": "How many schools did you attend?",
+    "question_zh": "你上过多少所學校?"
   },
   {
     "question": "how old are you? how old are you?",
@@ -1015,7 +1051,8 @@
         "end": 2480.04
       }
     ],
-    "visitor_question": "How large were the classes back then?"
+    "visitor_question": "How large were the classes back then?",
+    "question_zh": "那時候班級有多大？"
   },
   {
     "question": "Tetley?",
@@ -1042,7 +1079,8 @@
         "end": 2512.04
       }
     ],
-    "visitor_question": "What did Dragonwood mean as a name?"
+    "visitor_question": "What did Dragonwood mean as a name?",
+    "question_zh": "Dragonwood 作為一個名字有什麼含義？"
   },
   {
     "question": "你售其他的東西嗎?",
@@ -1153,7 +1191,8 @@
         "end": 2825.04
       }
     ],
-    "visitor_question": "How did the furniture business actually work?"
+    "visitor_question": "How did the furniture business actually work?",
+    "question_zh": "家具生意實際上是如何運作的？"
   },
   {
     "question": "你說它沒有成功,你覺得它有多久?",
@@ -1176,7 +1215,8 @@
         "end": 2910.04
       }
     ],
-    "visitor_question": "How did the idea of coming to Hawaii come about?"
+    "visitor_question": "How did the idea of coming to Hawaii come about?",
+    "question_zh": "你是如何想到來夏威夷的？"
   },
   {
     "question": "因為你叫做Daniel?",
@@ -1191,7 +1231,8 @@
         "end": 2920.04
       }
     ],
-    "visitor_question": "Did you go by a different name here?"
+    "visitor_question": "Did you go by a different name here?",
+    "question_zh": "你在這裡用過不同的名字嗎?"
   },
   {
     "question": "他學了嗎?",
@@ -1274,7 +1315,8 @@
         "end": 3319.0
       }
     ],
-    "visitor_question": "How did you manage your visa to stay?"
+    "visitor_question": "How did you manage your visa to stay?",
+    "question_zh": "你是如何处理签证以便留下来的？"
   },
   {
     "question": "你之前還沒有拿到Visa嗎? 什麼樣的Visa你拿到的?",
@@ -1301,7 +1343,8 @@
         "end": 3386.0
       }
     ],
-    "visitor_question": "What was the Ocean Center shop like?"
+    "visitor_question": "What was the Ocean Center shop like?",
+    "question_zh": "海洋中心商店是什麼樣子的？"
   },
   {
     "question": "那是那一間還在嗎? 還是現在修復了?",
@@ -1316,7 +1359,8 @@
         "end": 3394.0
       }
     ],
-    "visitor_question": "Is that Ocean Center still there today?"
+    "visitor_question": "Is that Ocean Center still there today?",
+    "question_zh": "那個海洋中心今天還在那裡嗎?"
   },
   {
     "question": "那是在金沙咀的那間嗎?",
@@ -1347,7 +1391,8 @@
         "end": 3454.0
       }
     ],
-    "visitor_question": "What happened with the Ocean Center space?"
+    "visitor_question": "What happened with the Ocean Center space?",
+    "question_zh": "海洋中心空間發生了什麼事？"
   },
   {
     "question": "他們不是你的朋友嗎? 他們不是應該的嗎?",
@@ -1382,7 +1427,8 @@
         "end": 3510.0
       }
     ],
-    "visitor_question": "Why did Uncle Bill leave such a good opportunity?"
+    "visitor_question": "Why did Uncle Bill leave such a good opportunity?",
+    "question_zh": "比爾叔叔為什麼要放棄這麼好的機會呢？"
   },
   {
     "question": "為什麼他做錢呢?",
@@ -1414,7 +1460,8 @@
       }
     ],
     "visitor_question": "How much money could you make on custom furniture?",
-    "featured": true
+    "featured": true,
+    "question_zh": "你用訂製家具能賺多少錢？"
   },
   {
     "question": "他叫什麼Design呢?",
@@ -1442,7 +1489,8 @@
       }
     ],
     "visitor_question": "What was the Ming Dynasty style all about?",
-    "featured": true
+    "featured": true,
+    "question_zh": "明朝風格的核心特點是什麼？"
   },
   {
     "question": "What was the most money you made in like a month?",
@@ -1457,7 +1505,8 @@
         "end": 3626.0
       }
     ],
-    "visitor_question": "Did the other shop ever do well after you left?"
+    "visitor_question": "Did the other shop ever do well after you left?",
+    "question_zh": "你離開後，那家店生意好過嗎？"
   },
   {
     "question": "How much revenue? Do you know?",
@@ -1580,7 +1629,8 @@
         "end": 3989.7200000000003
       }
     ],
-    "visitor_question": "How did disagreements affect the business?"
+    "visitor_question": "How did disagreements affect the business?",
+    "question_zh": "分歧如何影響了業務？"
   },
   {
     "question": "产品,为什么不做好一点呢?",
@@ -1599,7 +1649,8 @@
         "end": 4024.08
       }
     ],
-    "visitor_question": "How did the production side work?"
+    "visitor_question": "How did the production side work?",
+    "question_zh": "製作方面是如何運作的?"
   },
   {
     "question": "还是不明白,是什么呢?",
@@ -1627,7 +1678,8 @@
       }
     ],
     "visitor_question": "Tell us about your first big Japanese client.",
-    "featured": true
+    "featured": true,
+    "question_zh": "請告訴我們關於您的第一個大型日本客戶的情況。"
   },
   {
     "question": "你阿爷为什么?",
@@ -1670,7 +1722,8 @@
         "end": 4223.9800000000005
       }
     ],
-    "visitor_question": "What happened with that lost painting order?"
+    "visitor_question": "What happened with that lost painting order?",
+    "question_zh": "那個丟失的畫作訂單發生了什麼事？"
   },
   {
     "question": "That was the first place you lived in?",
@@ -1689,7 +1742,8 @@
         "end": 4252.2
       }
     ],
-    "visitor_question": "How did you first come to Hawaii?"
+    "visitor_question": "How did you first come to Hawaii?",
+    "question_zh": "你最初是如何來到夏威夷的？"
   },
   {
     "question": "You have now in Lilliat Square?",
@@ -1708,7 +1762,8 @@
         "end": 4266.06
       }
     ],
-    "visitor_question": "Where did you live when you first arrived?"
+    "visitor_question": "Where did you live when you first arrived?",
+    "question_zh": "你初到時住在哪裡？"
   },
   {
     "question": "You lived there too?",
@@ -1739,7 +1794,8 @@
         "end": 4340.66
       }
     ],
-    "visitor_question": "How did you meet Uncle Allen Ma?"
+    "visitor_question": "How did you meet Uncle Allen Ma?",
+    "question_zh": "你是怎麼認識艾倫·馬叔叔的？"
   },
   {
     "question": "Did you have stitches and everything?",
@@ -1778,7 +1834,8 @@
         "end": 4387.08
       }
     ],
-    "visitor_question": "What happened when Uncle Allen was away that time?"
+    "visitor_question": "What happened when Uncle Allen was away that time?",
+    "question_zh": "那次艾倫叔叔不在時發生了什麼事？"
   },
   {
     "question": "那么他们那时候有什么做呢? Agreement of Sale,你有没有听过?",
@@ -1797,7 +1854,8 @@
         "end": 4406.8
       }
     ],
-    "visitor_question": "How did you end up in your first real home here?"
+    "visitor_question": "How did you end up in your first real home here?",
+    "question_zh": "你最終是如何在這裡找到你的第一個真正的家的？"
   },
   {
     "question": "Agreement of Sale呢?",
@@ -1824,7 +1882,8 @@
         "end": 4452.94
       }
     ],
-    "visitor_question": "What was the agreement of sale arrangement?"
+    "visitor_question": "What was the agreement of sale arrangement?",
+    "question_zh": "銷售協議安排是什麼?"
   },
   {
     "question": "Also in Aloy right?",
@@ -1851,7 +1910,8 @@
         "end": 4498.3
       }
     ],
-    "visitor_question": "How did that interest payment work out?"
+    "visitor_question": "How did that interest payment work out?",
+    "question_zh": "那筆利息支付是怎麼進行的？"
   },
   {
     "question": "How many years have you been here now? How many years have you been here now?",
@@ -1866,6 +1926,7 @@
         "end": 4568.46
       }
     ],
-    "visitor_question": "How did you end up in your final home?"
+    "visitor_question": "How did you end up in your final home?",
+    "question_zh": "你最後是怎樣住進你現在的家的?"
   }
 ]

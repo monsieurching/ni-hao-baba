@@ -17,6 +17,7 @@ _qa_pairs   = None
 CUSTOM_CHIPS = [
     {
         "question": "What is the meaning of your name?",
+        "question_zh": "你名字的含義是什麼？",
         "start_fmt": "08:54",
         "custom_segments": [
             [534.04, 556.04],
@@ -28,6 +29,7 @@ CUSTOM_CHIPS = [
     },
     {
         "question": "Can you sing me your favorite song?",
+        "question_zh": "你可以為我唱你最喜歡的歌嗎？",
         "start_fmt": "00:00",
         "custom_segments": [
             [0.0, 35.8],
@@ -69,8 +71,8 @@ def get_all_questions(popular_order=None) -> list[dict]:
     pairs = _get_qa_pairs()
 
     custom = [
-        {"id": f"custom_{i}", "question": c["question"], "start_fmt": c["start_fmt"],
-         "custom_segments": c["custom_segments"]}
+        {"id": f"custom_{i}", "question": c["question"], "question_zh": c.get("question_zh", ""),
+         "start_fmt": c["start_fmt"], "custom_segments": c["custom_segments"]}
         for i, c in enumerate(CUSTOM_CHIPS)
     ]
 
@@ -79,6 +81,7 @@ def get_all_questions(popular_order=None) -> list[dict]:
         return {
             "id":          i,
             "question":    p.get("visitor_question", p.get("label", p["question"])),
+            "question_zh": p.get("question_zh", ""),
             "label":       p.get("label", ""),
             "start_fmt":   p["start_fmt"],
             "segments":    [[s["start"], s["end"]] for s in segs],

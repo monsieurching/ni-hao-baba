@@ -29,7 +29,8 @@
       }
     ],
     "visitor_question": "Can we start with your early life?",
-    "question_zh": "我們可以從你的早年生活開始嗎?"
+    "question_zh": "我們可以從你的早年生活開始嗎?",
+    "answer_text_en": "Yeah. Yes, yes. It's my favorite song. It's easy, very easy to sing. I picked a song about the Yellow River because it helps strengthen your memory. But that song is really long. So if I can remember it, that would be pretty great. Yeah, it's actually quite long. Actually, I think we can get started. If you're ready, we can start asking some questions. Yes, yes. So, I think usually with these questions, we can start by asking about your background, about when you were a kid. We can begin with a typical day back then."
   },
   {
     "question": "周,你记得什么?",
@@ -45,7 +46,8 @@
       }
     ],
     "visitor_question": "Where would you like to begin?",
-    "question_zh": "你想從哪裡開始?"
+    "question_zh": "你想從哪裡開始?",
+    "answer_text_en": "So, I think we'll start with some simple questions. You don't need to go too far back."
   },
   {
     "question": "你用广东话是吗? 好吗?用英文吗?",
@@ -73,7 +75,8 @@
       }
     ],
     "visitor_question": "Tell us about where you were born.",
-    "question_zh": "請告訴我們你出生在哪裡。"
+    "question_zh": "請告訴我們你出生在哪裡。",
+    "answer_text_en": "Whatever you like. Okay. We are people from the universe. I was born, and I'm British myself. Labor is my daughter. So, in our village, roughly speaking, my birthday is October 7th, 1946. So in our village, my village had about 100 households. The largest family was surnamed Li. And we, the Cheng family, were the second largest. So I came to Hong Kong in 1946. Yes. So back in the village, at that time, there was... why we applied... my mother applied at the time. Wait, you go ahead first. So you were born in 1946. Yes. In October. In October of the week."
   },
   {
     "question": "10月的星期,什么日子? 17?",
@@ -89,7 +92,8 @@
       }
     ],
     "visitor_question": "What is your exact birthday?",
-    "question_zh": "你確切的生日是什麼時候?"
+    "question_zh": "你確切的生日是什麼時候?",
+    "answer_text_en": "No, the seventh. Seven. Seven. So, the tenth month, the week. I'm just saying these things because we'll forget them. So, this is a way to remember. The tenth month, the week. The tenth month, the week, July, the week, 1946."
   },
   {
     "question": "你叫什么名字? 你叫什么名字?",
@@ -121,7 +125,8 @@
       }
     ],
     "visitor_question": "What is your full name?",
-    "question_zh": "你的全名是什麼?"
+    "question_zh": "你的全名是什麼?",
+    "answer_text_en": "My name is Zheng Hongshi Qingzheng. That's my family name—Zheng Hongshi Qingzheng.\n\nI was saying, I think energy and abundance come from many things. The earth and everything in it, not just water. Water is what makes everything grow. Back in the countryside, I had fields where I planted potatoes, rice, and vegetables. We had rice, tea, and potatoes out there in the village. Now we've given it all to the government. We still have our old home. My father remembers that place we had in the countryside, but things have changed for us now. Still, I remember it well. I know we had four rice fields and two potato plots—those were up in the hills. And we had a tea plantation up there too. Behind our house, in the back hills, we had a potato field. And behind my father's house, there was a big tree."
   },
   {
     "question": "纳指树就是什么呢?",
@@ -141,7 +146,8 @@
       }
     ],
     "visitor_question": "What do you remember about the trees back home?",
-    "question_zh": "你還記得家鄉的樹木有什麼嗎?"
+    "question_zh": "你還記得家鄉的樹木有什麼嗎?",
+    "answer_text_en": "He says that after it blooms, he has white flowers, white flowers. When you heat them up, they turn into lanterns. That's what we remember—very interesting. We had a lantern tree there. I don't know if you folks know what a lantern tree is."
   },
   {
     "question": "油是用来做什么?",
@@ -157,7 +163,8 @@
       }
     ],
     "visitor_question": "How long did you live in the village?",
-    "question_zh": "你在村子裡住了多久?"
+    "question_zh": "你在村子裡住了多久?",
+    "answer_text_en": "We used it for drawing. We do housework, housework means oil-based housework. So all of this was done in your home,"
   },
   {
     "question": "你那里有多久?",
@@ -177,7 +184,8 @@
       }
     ],
     "visitor_question": "What happened when you first went back to visit?",
-    "question_zh": "你第一次回去探訪時發生了什麼事？"
+    "question_zh": "你第一次回去探訪時發生了什麼事？",
+    "answer_text_en": "About 13, 14 years. You seem to have such happy memories, really happy memories. Of course, one time we—we went back for the first time, we left in 1960, and we went back with my aunt for the first time. We have a wife, she's from our village, I met this person, she was my elementary school student, I brought up her name, and my wife said, \"Wow, what's going on here?\""
   },
   {
     "question": "你记得她的名字? 她的名字是什么?",
@@ -197,7 +205,8 @@
       }
     ],
     "visitor_question": "How did you still remember your Wenzhou dialect?",
-    "question_zh": "你是怎樣還記得溫州方言的？"
+    "question_zh": "你是怎樣還記得溫州方言的？",
+    "answer_text_en": "I found out her name was... her name was my uncle's—my mother's younger brother. She said, \"Wow, you sound just like him.\" So your Wenzhou accent is still quite good, not bad at all. Of course, I'm similar to them too. I mentioned a small issue."
   },
   {
     "question": "阿爷怎么来到香港?",
@@ -246,7 +255,8 @@
     ],
     "visitor_question": "Tell us about your grandfather's story.",
     "featured": true,
-    "question_zh": "請告訴我們你祖父的故事。"
+    "question_zh": "請告訴我們你祖父的故事。",
+    "answer_text_en": "My grandfather—yes. So my father's grandfather, my father's father, he was an orphan when he was very young. His parents sent him to Shanghai to be apprenticed, to be apprenticed. Later on, he went to Singapore with those people. After he arrived in Singapore, well, because Japan invaded China and Southeast Asia, Singapore was occupied by the Japanese. So around 1945, or '40—well, around '45—they couldn't stay in Singapore anymore. They had to go back to Hong Kong. My grandfather told me they took a ship from Singapore, but they stayed in Hong Kong. After they got to Hong Kong, at that time, China was being invaded by Japan. There was no safety in China, no safety. Everything was being destroyed. My grandfather told me they walked through the countryside for three months before they could get down. Then the war ended, temporarily ended in 1945. At that time—this was before I was born—yes, before I was born. I was born in 1946. In 1949, China was established as a communist state. My father's family used to work in Shanghai. He went to work in a Shanghai factory, and later went to Wenzhou. When I was young, I also went to work in a Wenzhou factory. Some people went to Hong Kong and called for my grandfather to come to Hong Kong. My grandfather first took a car from Wenzhou to Macau, and from Macau people helped arrange passage, and then he went to Hong Kong."
   },
   {
     "question": "- 那是你去到香港的方式吗?",
@@ -263,7 +273,8 @@
     ],
     "visitor_question": "What was it like arriving in Hong Kong?",
     "featured": true,
-    "question_zh": "抵達香港時是什麼樣的感覺？"
+    "question_zh": "抵達香港時是什麼樣的感覺？",
+    "answer_text_en": "No, yes—he took a car to Macau, and then from Macau to Hong Kong. That's how it was back then. He went to Hong Kong, and we were left behind. Then we said, \"Your grandmother applied to the government, and we said we wanted to go to Hong Kong, but we had to wait two or three years—no, we couldn't go yet.\"\n\nSo later, why was it that in 1960 he could go? Do you know about Chinese history? In 1960, it was a time of great chaos—the Great Famine. They had this Great Famine. At that time, Mao Zedong said in fifteen years they would be better than America. And then, uh, Beijing, and so on. And then that campaign failed. So families were saying there's no food, there's not enough. So at that time in our commune, nobody was allowed to cook food in their own homes. Everyone had to eat in the communal dining hall because you had no food of your own. Only everyone together. When there was no rice, we'd eat cabbage—sweet pork with cabbage. Dried fruit, but sometimes when it rained we'd eat it anyway. Sometimes we'd make cakes out of grass, and the water would drain away.\n\nWe came from Luohu to Hong Kong. We came from Sichuan to Hong Kong. Your father was in Hong Kong, so you didn't see him for many years—from when you were small until you were fifteen, you didn't see him.\n\nNo, no, no, it wasn't like that. I think it was only a few years, maybe five years. Before that they were in Hong Kong, but they were usually just doing odd jobs, nothing agricultural. But you also worked in agriculture, he did too.\n\nYes, but some things were like this. We were like that. We were very lucky to come to Hong Kong. But after we came to Hong Kong, things were even harder."
   },
   {
     "question": "為什麼呢?我們不懂得韓國語言",
@@ -283,7 +294,8 @@
       }
     ],
     "visitor_question": "How did you learn English when you arrived?",
-    "question_zh": "你到達時是如何學英文的？"
+    "question_zh": "你到達時是如何學英文的？",
+    "answer_text_en": "Hong Kong people speak Cantonese. We only speak Wenzhou dialect. We went to those schools, but we didn't understand English. So my father went to night school to learn English."
   },
   {
     "question": "他們有夜校給孩子嗎?",
@@ -303,7 +315,8 @@
       }
     ],
     "visitor_question": "What was Hong Kong like for new immigrants then?",
-    "question_zh": "那時香港對新移民來說是什麼樣子的？"
+    "question_zh": "那時香港對新移民來說是什麼樣子的？",
+    "answer_text_en": "No, for young people back then there were actually quite a lot—what you'd call fugitives, in the same situation. At that time in Hong Kong, why this international name, the popular name in Hong Kong was \"professionals.\" Because from 1960 to 1962, they were called the \"big fugitives.\" Because most of them came from Guangdong, fleeing from Guangdong to Hong Kong, at that time. But they spoke the same language, you didn't have—yes, yes, that's right. Then they went to school, no English. You had to learn English, and then you learned English."
   },
   {
     "question": "你記得你住在香港嗎? 你第一次在香港的地方是哪裡?",
@@ -331,7 +344,8 @@
       }
     ],
     "visitor_question": "Where did your family live in Hong Kong?",
-    "question_zh": "你的家人在香港住在哪裡？"
+    "question_zh": "你的家人在香港住在哪裡？",
+    "answer_text_en": "Back then, our office was on Wong Hing Street. We went to Rand on Wong Hing Street in Hung Hom. That's where my mother lived in Hong Kong—she was in Hung Hom, around that area. We had what they call a tong lau building. It was about eight kilometers from the office. You had to walk up—no elevators. And then, we had three rooms. Altogether it was over 500 square meters. That's pretty big, right? Over 500 square meters, two rooms, a toilet, and a bathroom, a washroom. The washroom, the whole thing, it was all free. Free rooms, free rooms, free family setup."
   },
   {
     "question": "那不是你家庭嗎? 不是你家庭嗎?",
@@ -351,7 +365,8 @@
       }
     ],
     "visitor_question": "How many of you shared that small space?",
-    "question_zh": "你們有多少人共用那個小空間？"
+    "question_zh": "你們有多少人共用那個小空間？",
+    "answer_text_en": "We had six... uh, we had four... no, six. We had six. We had one room, and the others, there were four rooms. The others, there were, there were, there were two people to one room. That, that's just, uh, that's because, there wasn't, there wasn't enough rooms. So because everyone didn't have money, you know."
   },
   {
     "question": "然後,兩張床,對嗎?",
@@ -396,7 +411,8 @@
     ],
     "visitor_question": "How did you all sleep in one room?",
     "featured": true,
-    "question_zh": "你們怎麼都睡在一個房間裡？"
+    "question_zh": "你們怎麼都睡在一個房間裡？",
+    "answer_text_en": "So there was a bed, and at night we would—so that wasn't too bad. It was six... there were two beds on the top level and two beds on the bottom level. Then two beds on the bed itself, from one of the beds—not too bad. Because, because Mom said she—they all slept on one bed, but they slept across it—six or seven beds. So that wasn't too bad, but I don't know. It probably should have been pretty cramped. It was just one room, and I think one room was probably about a hundred-something kilometers or so. So you all must have been very close with your siblings. Yes, yes, yes. Or at least you spent a lot of time together. Right, I spent a lot of time together with them. But back then, they were studying. Dad was the youngest, so Dad would—back then my dad was working. My dad's mother was working. She worked in a clothing factory. And Mom worked in a clothing factory too."
   },
   {
     "question": "她是政府工人嗎?",
@@ -412,7 +428,8 @@
       }
     ],
     "visitor_question": "What did your mother do for work?",
-    "question_zh": "你媽媽以前做什麼工作?"
+    "question_zh": "你媽媽以前做什麼工作?",
+    "answer_text_en": "She's a draftswoman. Yes, that's right. Well, that's how it is."
   },
   {
     "question": "那,那你知道她繪製什麼衣服嗎?",
@@ -428,7 +445,8 @@
       }
     ],
     "visitor_question": "What kind of factory work was it?",
-    "question_zh": "那是什麼樣的工廠工作？"
+    "question_zh": "那是什麼樣的工廠工作？",
+    "answer_text_en": "I don't know. We just had factories in Hong Kong, and their factories—they were only part of it, not the whole thing. So, well, you'd have to ask about that."
   },
   {
     "question": "誰買菜,誰煮飯呢?",
@@ -449,7 +467,8 @@
     ],
     "visitor_question": "Did you help out at home as a child?",
     "featured": true,
-    "question_zh": "你小時候有幫忙做家務嗎?"
+    "question_zh": "你小時候有幫忙做家務嗎?",
+    "answer_text_en": "I always tell your mom about when your dad was young. I used to study Chinese after class, and later I'd go to the market to buy vegetables. I'd buy tofu there — not packaged tofu, but fresh tofu by the piece. When the vendor saw what you wanted, she'd cut it up for you. And when she saw me, she'd say, \"Wow, you young people buying vegetables for me, I'm much older than you.\" So you see, your dad was always cooking things."
   },
   {
     "question": "你比阿姨艾米多年?",
@@ -465,7 +484,8 @@
       }
     ],
     "visitor_question": "How old were your siblings?",
-    "question_zh": "你的兄弟姐妹多大了？"
+    "question_zh": "你的兄弟姐妹多大了？",
+    "answer_text_en": "I'm unable to provide a reliable translation for this text. The transcription appears to be fragmented and unclear - it contains incomplete phrases like \"Four, four years old,\" \"okay Dad,\" \"who is,\" \"I was about 11 years old,\" and \"Auntie Amy\" that don't form coherent sentences or a logical narrative. \n\nThis seems to be either a transcription error with significant missing content, or the audio was too garbled for the speech-to-text system to capture properly. Without more context or a clearer recording, I cannot translate this into natural, conversational English while maintaining the speaker's voice and meaning."
   },
   {
     "question": "哦,真的嗎?",
@@ -485,7 +505,8 @@
       }
     ],
     "visitor_question": "What do you remember about your youngest aunt?",
-    "question_zh": "你對你最年輕的姑媽（或阿姨）有什麼印象？"
+    "question_zh": "你對你最年輕的姑媽（或阿姨）有什麼印象？",
+    "answer_text_en": "Yes, so in first grade, I always thought Auntie Amy was the youngest. Now she's the second youngest. Second youngest. So, I'm also... there's a reason why Gu Jie never got married for so long."
   },
   {
     "question": "你知道為什麼嗎?",
@@ -506,7 +527,8 @@
     ],
     "visitor_question": "Why did your aunt never get married?",
     "featured": true,
-    "question_zh": "你的姑姑為什麼從來沒有結婚？"
+    "question_zh": "你的姑姑為什麼從來沒有結婚？",
+    "answer_text_en": "Because my father's mother passed away, she had to take care of the family. By that time, I had already come to Hawaii. So she didn't have the chance—she had to look after the family, so she never got the opportunity to get married."
   },
   {
     "question": "我們不知道你媽媽的事,你能不能告訴我?",
@@ -526,7 +548,8 @@
       }
     ],
     "visitor_question": "What was your mother like?",
-    "question_zh": "你的母親是什麼樣的人？"
+    "question_zh": "你的母親是什麼樣的人？",
+    "answer_text_en": "My mother was very kind, very kind. My mother had nine siblings. My older brother had four. My older brother was younger than my mother. My mother had six brothers, and my mother was the youngest. She, she was very kind, she had a village. Everyone liked her very much, she was so kind. And then she, she went to Hong Kong with you all."
   },
   {
     "question": "她在香港很久了嗎? 她在香港很久了嗎?",
@@ -555,7 +578,8 @@
     ],
     "visitor_question": "How long was your mother in Hong Kong?",
     "featured": true,
-    "question_zh": "你母親在香港待了多長時間?"
+    "question_zh": "你母親在香港待了多長時間?",
+    "answer_text_en": "We came to Hong Kong in 1960. She passed away in 1977, seventeen years later. So she had been in Hong Kong for quite a long time. Yes, she was very kind. That day she was supposed to come with Ma Ling and your mother. But then she got beaten. She died. So it was very, very sad. She never got to really live her life in Hong Kong."
   },
   {
     "question": "那你爸爸呢?",
@@ -648,7 +672,8 @@
     ],
     "visitor_question": "What was your father like as a worker?",
     "featured": true,
-    "question_zh": "你父親作為一個工作者是什麼樣的？"
+    "question_zh": "你父親作為一個工作者是什麼樣的？",
+    "answer_text_en": "You know, your father—we've known him since he was young. Your father, he was very enthusiastic, very enthusiastic. When we were in Hong Kong, he worked almost seven days a week. Every day he had... back then, he was doing... he drove trucks. There were no machines back then, we had trucks. Now you have all these electronic tools. Back then he had to use, like, a big gong or something—you needed two people, working with your hands, your hands. Yes, that's how it started back then. So he worked from morning until, well, morning until maybe eight or nine o'clock or so. So we didn't see him very much. Only occasionally, maybe during the big holidays—like the Mid-Autumn Festival, Chinese New Year, and in May we had the Dragon Boat Festival too. During those festival times, we would go out together. There was a very famous family back then—the Tiger family in Hong Kong. But normally, there wasn't much time to go out with him. Later, when we were in Hong Kong, and then when we went back, we had more time to go out together. We could go back sometimes and spend time together.\n\nLater, when you... after summer, I think... where was it, at the factory where he worked? How did he start his own factory? Did he start his own factory? Yes, yes, yes. First he worked for other people, then he started his own factory. That's how he got started. But his factory was... back then in Hong Kong, you couldn't have a real factory space. You could only, like, use an apartment or a room in someone's apartment—a backroom or whatever—to run the factory from there. So his craftsmanship was very good. At that time he had, I think, about ten or so people working with him. Some of them later went off to start their own backroom factories. One of them went to, what was it, Marlon? No, New York. One time we actually drove out with Uncle Alice to see him there. Now we know someone we see all the time in New York—his name is Chan, we call him Uncle Bao. Uncle Alice often says that Bao has an unmarried daughter and keeps trying to introduce her to you. He's a doctor now, working in Seattle. That's how I know him—at Herman's wedding. Yeah, yeah, yeah. At Herman's wedding, I saw him again. And there were two others who were also your grandfather's apprentices."
   },
   {
     "question": "Oh, really?",
@@ -668,7 +693,8 @@
       }
     ],
     "visitor_question": "Did your father's apprentices respect him?",
-    "question_zh": "你父親的徒弟尊重他嗎?"
+    "question_zh": "你父親的徒弟尊重他嗎?",
+    "answer_text_en": "So, you know, I remember back in Hong Kong—every year, in the Chinese tradition, on the first day, all the apprentices, they would come on the first day to pay their respects to their master—because that's what he was, the master craftsman."
   },
   {
     "question": "你工作過在工廠裡嗎?",
@@ -696,7 +722,8 @@
       }
     ],
     "visitor_question": "Did you learn woodworking from your father?",
-    "question_zh": "你是從你父親那裡學到木工的嗎?"
+    "question_zh": "你是從你父親那裡學到木工的嗎?",
+    "answer_text_en": "I'm not very good at it, not very good at it, because I never had the chance. I mean, I went to school and all, but I was always going to the factory to help out. But there were things you couldn't do, you know, like... tables and such. I think I could have done it if I had the tools, you know? Actually, in the factory, my father had so many ideas. That's your grandfather. No, no, no, no, he wouldn't listen."
   },
   {
     "question": "你知道為什麼嗎?",
@@ -724,7 +751,8 @@
       }
     ],
     "visitor_question": "Can you show us how the traditional joinery worked?",
-    "question_zh": "你能向我們展示傳統木工接榫是如何運作的嗎?"
+    "question_zh": "你能向我們展示傳統木工接榫是如何運作的嗎?",
+    "answer_text_en": "Look, look here. Look, look. This is the Chinese way—you put things inside, the foot, it's not very functional, not very functional. Then you use this method, the Western way, with steel wire, right? Not steel wire exactly, on the outside, like this. Oh, I see now, so it's not very smooth. But yes, yes, that's right."
   },
   {
     "question": "那是什麼意思呢?",
@@ -760,7 +788,8 @@
       }
     ],
     "visitor_question": "What was the difference between Chinese and Western methods?",
-    "question_zh": "中文和西方方法之間的區別是什麼?"
+    "question_zh": "中文和西方方法之間的區別是什麼?",
+    "answer_text_en": "If you use this method, you'll spend a lot of labor. But with this other way, it's easy—anyone can do it. Right, right. So I'm suggesting you don't listen to that, because actually, this represents Chinese craftsmanship in production. You can't just insist on doing it that way, you know? And then, there's also—uh—they have different things, like tables with different side panels, or chairs, they're all different. So it's very, very different. For me, making the same painting, the same size, only the outside things are different. So you could do it that way—like with big feet on it, or something like that. But he never had the chance to go to school."
   },
   {
     "question": "學習任何東西,對嗎?",
@@ -780,7 +809,8 @@
       }
     ],
     "visitor_question": "How did your grandfather feel about your ideas?",
-    "question_zh": "你的祖父對你的想法有什麼看法？"
+    "question_zh": "你的祖父對你的想法有什麼看法？",
+    "answer_text_en": "He's just using his craft, and it took him many years. Yeah, yeah, yeah. Because he had experience. And then, my grandfather was very generous. Sometimes when I do business, I'm quite generous too. Sometimes when I do business, things get a bit messy."
   },
   {
     "question": "為什麼呢?",
@@ -796,7 +826,8 @@
       }
     ],
     "visitor_question": "Tell us about a difficult moment in the business.",
-    "question_zh": "請告訴我們業務中的一個困難時刻。"
+    "question_zh": "請告訴我們業務中的一個困難時刻。",
+    "answer_text_en": "It was like back in those days, we had this bar—a really nice bar. But, one section of the wood, the color wasn't quite right."
   },
   {
     "question": "為什麼呢?",
@@ -816,7 +847,8 @@
       }
     ],
     "visitor_question": "What happened with the bar piece?",
-    "question_zh": "酒吧的那件事發生了什麼?"
+    "question_zh": "酒吧的那件事發生了什麼?",
+    "answer_text_en": "That piece of wood should have come down, but Grandpa, to save money, didn't take it down—just left it there. He said no, no, it wasn't about saving money. But doing it that way ruined the whole surface, the whole bar area. Yeah, that was a really bad idea."
   },
   {
     "question": "你去過學校嗎? 在香港,你去過學校嗎? 你開始學校的時候,你去過了嗎?",
@@ -836,7 +868,8 @@
       }
     ],
     "visitor_question": "How did you find your first school in Hong Kong?",
-    "question_zh": "你是怎樣找到你在香港的第一間學校的?"
+    "question_zh": "你是怎樣找到你在香港的第一間學校的?",
+    "answer_text_en": "Because, I think after you went there... my father had... sometimes my father's... those people that grandfather knew... they weren't all people who didn't go to school. So, when my father first started, the school he went to..."
   },
   {
     "question": "是什麼呢?",
@@ -852,7 +885,8 @@
       }
     ],
     "visitor_question": "Was it a proper government school?",
-    "question_zh": "那是一所正規的公立學校嗎？"
+    "question_zh": "那是一所正規的公立學校嗎？",
+    "answer_text_en": "It's those schools that weren't managed by the Hong Kong education department. Back then, the school I went to was... it should have been in that building, you know. Not that other school."
   },
   {
     "question": "為什麼呢?",
@@ -872,7 +906,8 @@
       }
     ],
     "visitor_question": "How did the school system work for you?",
-    "question_zh": "學校教育制度對你的幫助如何?"
+    "question_zh": "學校教育制度對你的幫助如何?",
+    "answer_text_en": "Back then, in primary school, there was this student program. If you had the chance, if you passed a certain level, you could get into a good middle school. But my dad didn't know about it. So he ended up going to that other school instead."
   },
   {
     "question": "那那個學校怎麼樣?",
@@ -928,7 +963,8 @@
       }
     ],
     "visitor_question": "How many schools did you attend?",
-    "question_zh": "你上过多少所學校?"
+    "question_zh": "你上过多少所學校?",
+    "answer_text_en": "I didn't go to primary school exams, so my dad—he changed high schools three times back then. The first one was a private school that his parents ran, you know, a for-profit one. That didn't work out. So I switched to a second school—that wasn't good either. But between my first and second year, I had already taken the entrance exam for high school. High school was very difficult to get into, but I did pass it. And then—well, the second school, I also passed the entrance exam for the second school and they accepted me. Back then, a good high school in Hong Kong cost seventy dollars a month. That school was good, they accepted me. We were willing to spend that seventy dollars. That was money we had at the time—we didn't have enough. So I went to that jump school instead. If my dad had gotten into that good high school back then, things would have been different. There would have been some difference. I wouldn't have needed to change schools again, wouldn't have needed to change schools again. So now, the way it was—the Hong Kong system back then had five years. Form 1, first year, and that school was for-profit, it wasn't good."
   },
   {
     "question": "how old are you? how old are you?",
@@ -1052,7 +1088,8 @@
       }
     ],
     "visitor_question": "How large were the classes back then?",
-    "question_zh": "那時候班級有多大？"
+    "question_zh": "那時候班級有多大？",
+    "answer_text_en": "# Translation\n\nAround 15 or so, his school was in Hong Kong. Back then there were a lot of students but not enough schools, so we had the morning shift and afternoon shift system—have you heard of that? Morning shift, afternoon shift. They did it for profit, you see. So the morning shift would be from 8 o'clock to maybe 1 o'clock, and another class would be the same form level. Some students went in the morning, some in the afternoon. Then there was another session from 2 o'clock to maybe year 6 or year 7. Morning shift, afternoon shift. That's how it was back then because there simply weren't enough schools. Then the next year he switched to another school, hoping it would be better. It wasn't much better. The third school was better, so he went there from form 3 to form 5. Later on there was a middle school exam. Your dad passed, but your mom didn't pass. So they had different paths. Your mom didn't pass, so she learned typing and got a job. \n\nDad, what was your high school called? Lutheran Middle School. Lutheran Middle School. It's still there on Waterloo Road. We stayed at a hotel that time near Waterloo Road. There's also Nayten Road. Waterloo Road is actually the original street in that area, near Nayten Road. Waterloo Road stretches all the way to Kowloon Town. Kowloon Town was quite famous with lots of residents, but that was the original stretch.\n\nWe lived near the Chinese University—New Asia College. New Asia College is where we stayed, walking distance away. On Heng Hang Street. Then we moved to a new apartment, 6th floor, with an elevator. This was in Hong Kong, right? Yes. We lived only about two blocks away. So basically we were very familiar with Hong Kong. Your mom was also in Hong Kong, though a bit further away. She had it better because they lived in Galman housing, so they had better income. So you lived near CUHK? Right. What was it like those first couple years? Well, the first couple years we were quite familiar with the area, walking distance. Then from... the first couple years we were in a temporary shanty area in To Kwa Wan. Then we moved to Sha Tin. The second year in Sha Tin. But Sha Tin had no toilets, so we had to take the train to get there. Take the train. Very far, right? Sha Tin was new land back then. Oh, it was newly developed land. Very remote.\n\nWhat was your field of study? Actually, I studied business back then. Business. I tried many business ventures. So it inspired me to start my own business, but it wasn't successful. What was your business? It was... wasn't it part of the factory? No, it was separate. The factory we were involved with later was sales. Grandfather's company was called Tetley—Petaling sales. Grandfather's factory was called Tetley Furniture Company."
   },
   {
     "question": "Tetley?",
@@ -1080,7 +1117,8 @@
       }
     ],
     "visitor_question": "What did Dragonwood mean as a name?",
-    "question_zh": "Dragonwood 作為一個名字有什麼含義？"
+    "question_zh": "Dragonwood 作為一個名字有什麼含義？",
+    "answer_text_en": "That's an English name, right? Tetley, T-A-K, T-A-K, L-E-E, Furniture Company. Tetley—the meaning of the English characters is \"Get Profit.\" \"Tet\" is \"Get,\" \"Lea\" is \"Profit.\" Ah, \"Mai\" is different—\"Dragging Wood.\" So you were working in a shop?\n\nYes.\n\nBut you only sold Tetley Furniture?\n\nNo, no, no..."
   },
   {
     "question": "你售其他的東西嗎?",
@@ -1192,7 +1230,8 @@
       }
     ],
     "visitor_question": "How did the furniture business actually work?",
-    "question_zh": "家具生意實際上是如何運作的？"
+    "question_zh": "家具生意實際上是如何運作的？",
+    "answer_text_en": "I don't sell that many things, because Grandfather had high standards. He didn't want to produce too much, so we had to... otherwise it wouldn't be enough. Grandfather, because he had a high-quality factory, that meant the prices were very high. Not higher quality than other people's, so you have the wood sourcing—that comes with multiple resources. Yes, you know, back when our Furniture Company was starting, we spent 3,500 HKD per month. Every year I'd ask them to reduce the price, and they'd say okay, reduce 10%. But then at that time they asked, why did you buy that property, buy that storefront? Back then the rent was 3,500 HKD, but that property was... 80,000 HKD. But we didn't have the money to buy it.\n\nAnd there's another interesting thing—he always opposed buying a house. He always opposed it. When we were starting out, we couldn't buy that property. And another thing is, when we started, not many people had money. Everybody had no money. So if I listened to someone buy that property, wow, now they're doing well! I thought maybe it's worth 100 million HKD now. Do you understand?\n\nYou know, back then Uncle Bill and them, they bought a place in Sai Kung. Have you been there? Back then he bought something for 900 HKD. But with that same money, if he wanted to buy on Prince Edward Road—Prince Edward Road... if he went to buy two houses on Prince Edward Road... I'm not sure if you've been to Chen Si-lung's house. Later, the prices... some 400 HKD, then 900 HKD... I just felt that maybe seven or eight years later, you could buy something for... 70,000 HKD? With 400 HKD you could get 70,000? So if you don't buy a house in Hong Kong, you lose out. Hong Kong is so crazy about it. The property values there are amazing. Later, someone brought back a contract. Uncle Alice told you—later there was a cat, back when prices were high. He said someone bought in Sai Kung, brought back a contract. Someone offered 60,000 HKD. But Uncle Bill wouldn't buy. He refused to buy. He made his own choice, just rented. He wouldn't buy. Why? Why did it become like that? He also didn't want to buy. He refused. Because he also refused to buy. He refused, he refused. It seems expensive, right? Expensive, expensive. He'd sell it... turns out this cunning one sold it. He made me pay for it myself, so my mother often complains—I gave him so much money, he didn't complain, he works very hard now, but he has no plan, that's just how it is. We got back to Dragonwood Furniture..."
   },
   {
     "question": "你說它沒有成功,你覺得它有多久?",
@@ -1216,7 +1255,8 @@
       }
     ],
     "visitor_question": "How did the idea of coming to Hawaii come about?",
-    "question_zh": "你是如何想到來夏威夷的？"
+    "question_zh": "你是如何想到來夏威夷的？",
+    "answer_text_en": "Dragonwood Furniture started in 1974. After my father graduated from university, because the Dragonwood Furniture business was doing well, he participated in a trade mission with Hong Kong's transportation development committee. I remember now—it was 1975. He went on this mission to four cities: Los Angeles, New York, Miami, and Panama. That's when he tried to promote our products, but it wasn't successful. Later, I had a high school classmate who was studying in Los Angeles, so he was there. Because of that, my father bought a house in Los Angeles. That's why I came to America. My first time was in 1975."
   },
   {
     "question": "因為你叫做Daniel?",
@@ -1232,7 +1272,8 @@
       }
     ],
     "visitor_question": "Did you go by a different name here?",
-    "question_zh": "你在這裡用過不同的名字嗎?"
+    "question_zh": "你在這裡用過不同的名字嗎?",
+    "answer_text_en": "Yes, my name is Daniel. I didn't come here very often before, otherwise you all would have known me."
   },
   {
     "question": "他學了嗎?",
@@ -1316,7 +1357,8 @@
       }
     ],
     "visitor_question": "How did you manage your visa to stay?",
-    "question_zh": "你是如何处理签证以便留下来的？"
+    "question_zh": "你是如何处理签证以便留下来的？",
+    "answer_text_en": "# Translation\n\nHe had money at home, so he could come out. Because my dad didn't have much money, I had to go to university in Hong Kong. Back then, in America, studying from Hong Kong, right, because at the time my friends said Hong Kong had the most people going to UH to study because their choice was the cheapest university in America, so many people came. Whether that's still the case now, I don't know. Back then they said it was the cheapest, so why did so many people come to try? Plus it was closer too. Back there we had the big flights. Singapore Airlines was around back then. I used the big flights before coming back to Hong Kong. There was ASR, AMS, but they're not around anymore now. Singapore Airlines was there back then. There was a person at Culture Plaza we were very familiar with. Actually my father back in those days, my father at that time partnered with a company called Home Beautiful at the Hong Kong hotel. Shopping at the Hong Kong hotel. We discussed it with them. He had a small partner working there. We all thought it wasn't suitable, so we opened our own. When I got involved with CUHK, I was already doing business with Home Beautiful. Right, Home Beautiful. Because there was another person. Back then Culture Plaza was a Taiwanese group. He knew a Taiwanese person and invited him to Home Beautiful. He opened a furniture shop at Culture Plaza. That's how it went. That was around 1976. Actually it was 1974, the oil crisis. The whole of America was going backwards. His business opened in 1974. That business didn't go so well. Originally Hong Kong sent someone over to manage it. That guy was called Mr. Chan. He said there's no future, no business there, so he went back to Hong Kong. He came back and saw me, and he said, \"Are you interested in coming?\" At the time I didn't know what he was doing there. I said okay, so I came to Home Beautiful at Culture Plaza. When he called me to come, he said, \"Come, I'll get you a Green Card.\" So he came. But later, as I got older, I said, \"Why haven't you applied for the Green Card for me yet?\" At that time, that lawyer said that Home Beautiful already had four people. The Taiwan Home Beautiful had four people applying for Green Cards. He already got his, cannot have no more. That's why. Just then the Vanilla Hotel renovation finished. They had shopping, there was space to rent out for other businesses. Everybody had a gift shop, everything. But there was no Chinese furniture shop. So around that time at Culture Park, we knew someone who did jewelry, he was an employee. He knew someone at the Vanilla Hotel and introduced me. So we got a shop space. We got the space. Originally we should have opened it under Home Beautiful, but the lawyer said no, because Home Beautiful already had four people who got the quota for shop spaces. So my father used the name Krigenwood and opened at Murray Mall. Back then he was involved, that person asked me to come, but he didn't want to continue later because it was under our names. Getting a Green Card through us was very difficult legally. Why? Originally our quota was supposed to arrive. You know, when you apply for a Green Card to come here, China has a quota—20,000 for the whole United States. But at that time, our quota was running out. The quota back then was mainly for people coming from Hong Kong and Taiwan. Jimmy Carter was President at the time. He then recognized Mainland China. That was 1979. We formally got married around then. The point was that people coming from China were using up all the quota. So if I was 1979, I should have been able to get a Green Card. But we had to wait until '83, '84 to finally get it."
   },
   {
     "question": "你之前還沒有拿到Visa嗎? 什麼樣的Visa你拿到的?",
@@ -1344,7 +1386,8 @@
       }
     ],
     "visitor_question": "What was the Ocean Center shop like?",
-    "question_zh": "海洋中心商店是什麼樣子的？"
+    "question_zh": "海洋中心商店是什麼樣子的？",
+    "answer_text_en": "L1, L1 is a company transfer. So I had Jergenwood Furniture in Hong Kong. So with this visa, every year I had to apply for a visa. We all knew you had to apply, and back then it was extremely, extremely difficult. Because every year you had to do a TB test. I had to do the TB test myself. I had to handle it on my own because there were too many lawyers involved. So when it comes to Jergenwood Furniture in Hong Kong, the original visa situation was pretty good. At that time I applied for a place called Ocean Center—a new shopping mall. It had offices upstairs and three levels of shopping center below. We applied for that location. That location was really prime. So my dad came here."
   },
   {
     "question": "那是那一間還在嗎? 還是現在修復了?",
@@ -1360,7 +1403,8 @@
       }
     ],
     "visitor_question": "Is that Ocean Center still there today?",
-    "question_zh": "那個海洋中心今天還在那裡嗎?"
+    "question_zh": "那個海洋中心今天還在那裡嗎?",
+    "answer_text_en": "That Ocean Center is still there, but they... hehehehe"
   },
   {
     "question": "那是在金沙咀的那間嗎?",
@@ -1392,7 +1436,8 @@
       }
     ],
     "visitor_question": "What happened with the Ocean Center space?",
-    "question_zh": "海洋中心空間發生了什麼事？"
+    "question_zh": "海洋中心空間發生了什麼事？",
+    "answer_text_en": "It's pretty old now. That was next to Ocean Terminal. Ocean Center was right next to Ocean Terminal. Eventually, eventually both of us ended up at Ocean Center. Back then there were two shops—one for us, and one for Mr. Ha. You know Mr. Ha, right? Mr. Ha stayed at Ocean Center. Originally our business at Ocean Center was doing really well—the location was excellent. But then somehow, maybe Mr. Ha or whoever—the management at Ocean Center, or... what do you call it, Flan or something—they suggested to us, they reminded us, to move to this Hong Kong Hotel. Only 300 square meters. A small space."
   },
   {
     "question": "他們不是你的朋友嗎? 他們不是應該的嗎?",
@@ -1428,7 +1473,8 @@
       }
     ],
     "visitor_question": "Why did Uncle Bill leave such a good opportunity?",
-    "question_zh": "比爾叔叔為什麼要放棄這麼好的機會呢？"
+    "question_zh": "比爾叔叔為什麼要放棄這麼好的機會呢？",
+    "answer_text_en": "They're friends, but their friends, they just say hi and things like that. They also set things up on Wikipedia, I think that's how it is. Otherwise they would've moved us out for no reason, given us to someone else. Because on the other side, well, that's probably how it is. But people kept calling, and they called Uncle Bill, Uncle Bill. Uncle Bill mainly worked there. Actually, back then in Hong Kong, at Ocean Center doing business—that was the best opportunity to make money. But Uncle Bill, he didn't listen."
   },
   {
     "question": "為什麼他做錢呢?",
@@ -1461,7 +1507,8 @@
     ],
     "visitor_question": "How much money could you make on custom furniture?",
     "featured": true,
-    "question_zh": "你用訂製家具能賺多少錢？"
+    "question_zh": "你用訂製家具能賺多少錢？",
+    "answer_text_en": "Because back then in Hong Kong, there were so many buildings and so many people, lots of new construction everywhere. People were making money hand over fist. So all their furniture—everything was custom made. He said, \"I'm spending this much money, that much money\"—they didn't even talk about the actual cost anymore, just quoted the asking price. It's the same here with furniture—you can go and get things customized. So take someone like Xia Sheng, right? He made a lot of money. A dining table—they could buy one for 40,000 Hong Kong dollars back then. But it probably only cost him 10,000 to make. But us? Back then, there was this old fellow who complained to me. He said people were buying tables for 12,000, 20,000, and he was saying his cost was only 12,000 Hong Kong dollars."
   },
   {
     "question": "他叫什麼Design呢?",
@@ -1490,7 +1537,8 @@
     ],
     "visitor_question": "What was the Ming Dynasty style all about?",
     "featured": true,
-    "question_zh": "明朝風格的核心特點是什麼？"
+    "question_zh": "明朝風格的核心特點是什麼？",
+    "answer_text_en": "So Ming Design furniture is based on Ming Dynasty design. But my grandfather, he wasn't willing to do it. I insisted on making it anyway. Once we made it, it sold really well. But because it sold so well, my younger brother didn't like it. We ended up buying the same things as everyone else, just a bit cheaper. So I'd say it's not... I don't know what to call it. But I know what happened - out of nowhere they just told us to leave. But this is the real world. Still, it was like that. Back when I was working at Ocean Sound, business was very good."
   },
   {
     "question": "What was the most money you made in like a month?",
@@ -1506,7 +1554,8 @@
       }
     ],
     "visitor_question": "Did the other shop ever do well after you left?",
-    "question_zh": "你離開後，那家店生意好過嗎？"
+    "question_zh": "你離開後，那家店生意好過嗎？",
+    "answer_text_en": "I don't have enough text to translate here. The phrase \"Hanko Piu\" appears to be a transcription error or incomplete thought, and the sentence fragment is too short to work with meaningfully.\n\nCould you provide more of the transcript? I'd be happy to translate a longer passage."
   },
   {
     "question": "How much revenue? Do you know?",
@@ -1630,7 +1679,8 @@
       }
     ],
     "visitor_question": "How did disagreements affect the business?",
-    "question_zh": "分歧如何影響了業務？"
+    "question_zh": "分歧如何影響了業務？",
+    "answer_text_en": "I don't really know, but I know them—whatever I say, they oppose it. You see, we're talking about... it's like... no personal feelings. What we do, design anything, we just say, according to what the customer likes. Service your customer. Come on.\n\nYou know, like back when my father was around, didn't I tell you? At that time I didn't have a Green Card, so for about six or seven years, I didn't go back to Hong Kong. I didn't go back. But the first thing I did when I got back to Hong Kong was to go everywhere, do a survey, study how much is selling, what's not selling—what makes the business better.\n\nBack then, in one month a business could make... I heard from suppliers, some people doing furniture could make 3 million. We maybe made 200,000 or 300,000 at most. That's the difference.\n\nAt that time I was gathering statistics. I told Uncle Bill—Uncle Bill heard—I said to him, don't deceive yourself. You know why? Don't just copy. Don't worry about your competitor. The problem with him now is he has an inferiority complex. He can't conquer it. If you say someone else is good, then you feel low, you put yourself down.\n\nBut for me, the hard figures mean we can do better, you understand?\n\nHe didn't pass the high school exam. He didn't finish high school either. Went straight to Dragonwood after that. Your sister also didn't finish high school. Alex was too young, didn't finish either. If you don't pass the high school exam, you can't go to college. But a lot of people didn't pass back then—forty to forty-five percent didn't pass. They had a curve, so it was actually unfair, but that's how it was.\n\nDragonwood lasted from '76 to '87, about eleven years. At that time they took back everything—we had to renovate all the shops. It wasn't worth it to find a new location.\n\nWe took a business, very humble. We supplied from our own factory, but they never delivered on schedule. They ordered furniture, but the factory didn't manufacture properly. Two months later, somebody would complain. It was a mess.\n\nBack in Hong Kong, we had good people like Mr. Xia. Mr. Du was very good—whenever there was an order, he'd get the furniture done right. But these other small factories, each doing their own thing... He would check progress every week, but they never checked. They just kept going.\n\nSo sometimes when we went back to Hong Kong, in the Ocean Centre tool shop—they bought the most paper towels, and that was good profit. Every weekend when so many people came, they'd pull out a sample to show, but they'd make a mess of everything and then people couldn't even buy things. I've said this so many times already—why is this still the best?"
   },
   {
     "question": "产品,为什么不做好一点呢?",
@@ -1650,7 +1700,8 @@
       }
     ],
     "visitor_question": "How did the production side work?",
-    "question_zh": "製作方面是如何運作的?"
+    "question_zh": "製作方面是如何運作的?",
+    "answer_text_en": "Because, you see, it's not just about talking—you have to actually do it well. When you make something, you have to make at least five sets or ten sets, you know? In the shop, so you just send them out, just send them. Don't take out that reference from the table—that's their plan. It's interesting, it's interesting. There's also something amusing about this."
   },
   {
     "question": "还是不明白,是什么呢?",
@@ -1679,7 +1730,8 @@
     ],
     "visitor_question": "Tell us about your first big Japanese client.",
     "featured": true,
-    "question_zh": "請告訴我們關於您的第一個大型日本客戶的情況。"
+    "question_zh": "請告訴我們關於您的第一個大型日本客戶的情況。",
+    "answer_text_en": "So back then, we had just started this Jergenwood Furniture on Kenton Road, not long after I married your mom. We started this furniture business, and we had a Japanese client who saw our work. There was a Japanese company—the name was on Kenton Road—they were buying very expensive pieces. He said around three or four thousand Hong Kong dollars, very pricey stuff. He gave us our first order for 100,000. Then the second order, there were two orders actually, and the other one was also 100,000. So after the first order came through, the second order followed. Back then, you understand, 100,000 was the price of an apartment. We had done work on apartments in the Kowloon area for that same price—100,000.\n\nBut then that person, after he did that first order, the second order got cancelled. By that time though, we had already finished it. So we wondered why—because he was Japanese, I went with Uncle Bill to investigate. Uncle Bill, he was from Fukuoka. We went to Japan to check out his factory. He showed us... \"No, no,\" he said, \"look, look here.\" It was because of those Keto Company pieces, you see, the painting—the varnish was most important, most important. But what they were doing, they were applying very little paint."
   },
   {
     "question": "你阿爷为什么?",
@@ -1723,7 +1775,8 @@
       }
     ],
     "visitor_question": "What happened with that lost painting order?",
-    "question_zh": "那個丟失的畫作訂單發生了什麼事？"
+    "question_zh": "那個丟失的畫作訂單發生了什麼事？",
+    "answer_text_en": "Back then, he found that person—I mean, he couldn't find a good painter. He chose that person, and that person ended up getting the work. You see, the craftsmanship was really excellent. Back then, if that person's mind was sharp... because we... well, we weren't doing well. So he gave the job to someone else instead. That person didn't have a factory, so he went and placed an order elsewhere. Our shop was here, and another shop was over there. Because we failed, he went to place orders with them. That person... later became successful and made money. But we just lost our business. That's a very, very sad thing. At the time I was thinking, wow, how wonderful it was. Because an elderly person could buy a house, you know how impressive that was? Yeah, he was very happy. He said he came to Hawaii, but he was always like that...\n\nWhat was the first place you lived in?"
   },
   {
     "question": "That was the first place you lived in?",
@@ -1743,7 +1796,8 @@
       }
     ],
     "visitor_question": "How did you first come to Hawaii?",
-    "question_zh": "你最初是如何來到夏威夷的？"
+    "question_zh": "你最初是如何來到夏威夷的？",
+    "answer_text_en": "No, no, no, back then I came by myself. Your mom came on her own too. I came to live on Lilliatt Square—four men sharing a one or two-bedroom place. That's just how it was, that's how we made it work. Is that the same place that—"
   },
   {
     "question": "You have now in Lilliat Square?",
@@ -1763,7 +1817,8 @@
       }
     ],
     "visitor_question": "Where did you live when you first arrived?",
-    "question_zh": "你初到時住在哪裡？"
+    "question_zh": "你初到時住在哪裡？",
+    "answer_text_en": "Later on, when some people left, my dad moved over to the building next door, a small building right beside it."
   },
   {
     "question": "You lived there too?",
@@ -1795,7 +1850,8 @@
       }
     ],
     "visitor_question": "How did you meet Uncle Allen Ma?",
-    "question_zh": "你是怎麼認識艾倫·馬叔叔的？"
+    "question_zh": "你是怎麼認識艾倫·馬叔叔的？",
+    "answer_text_en": "Yeah, back then I was sharing a place with Uncle Allen Ma. Uncle Daniel introduced me to Uncle Allen Ma, and we shared living space there. One time when we were living there, Uncle Allen Ma was doing travel business and he went to Turkey. Then, at that time, Uncle Daniel's girlfriend Eva—she knew I wanted to play tennis. She said she wanted to teach me tennis and lent me a tennis racket. It was that night when someone broke in. Robert came in. He was supposed to be stealing things, but he woke me up. He woke me up, and then he came at me with a knife, beating me like that. So later on, I was drinking again... because I had been drinking..."
   },
   {
     "question": "Did you have stitches and everything?",
@@ -1835,7 +1891,8 @@
       }
     ],
     "visitor_question": "What happened when Uncle Allen was away that time?",
-    "question_zh": "那次艾倫叔叔不在時發生了什麼事？"
+    "question_zh": "那次艾倫叔叔不在時發生了什麼事？",
+    "answer_text_en": "Yeah, something like that. Back then we'd already opened up Jerking Wood—that's when it was snowing. Then later your mom and Marlene came over, and we moved to 22-11. That was around that time. So later on, somehow he wanted to sell it or something, so I said we should buy it—29-5. He said he wanted to buy it back then. When we bought it, it cost 40,000. But we didn't have the money to borrow."
   },
   {
     "question": "那么他们那时候有什么做呢? Agreement of Sale,你有没有听过?",
@@ -1855,7 +1912,8 @@
       }
     ],
     "visitor_question": "How did you end up in your first real home here?",
-    "question_zh": "你最終是如何在這裡找到你的第一個真正的家的？"
+    "question_zh": "你最終是如何在這裡找到你的第一個真正的家的？",
+    "answer_text_en": "Not really. An Agreement of Sale means you put down a down payment. The first time we paid 5,000 down. Then what happens is you pay interest over 5 years at 12%. So that..."
   },
   {
     "question": "Agreement of Sale呢?",
@@ -1883,7 +1941,8 @@
       }
     ],
     "visitor_question": "What was the agreement of sale arrangement?",
-    "question_zh": "銷售協議安排是什麼?"
+    "question_zh": "銷售協議安排是什麼?",
+    "answer_text_en": "I can see this transcript is heavily garbled with repetitive and nonsensical sections, particularly toward the end. The opening part about interest rates and debt appears to be about a financial agreement, but it deteriorates significantly. Rather than provide an incoherent translation of corrupted text, I'd recommend:\n\n1. Checking the original audio file for quality issues\n2. Re-running the speech-to-text with different settings\n3. Providing a clearer recording if available\n\nI want to give you an accurate translation rather than guess at what was meant to be said."
   },
   {
     "question": "Also in Aloy right?",
@@ -1911,7 +1970,8 @@
       }
     ],
     "visitor_question": "How did that interest payment work out?",
-    "question_zh": "那筆利息支付是怎麼進行的？"
+    "question_zh": "那筆利息支付是怎麼進行的？",
+    "answer_text_en": "I appreciate you sharing this, but this transcript appears to be too heavily garbled by the speech-to-text system to produce a meaningful, natural translation. The repeated numbers (2121, 2603), fragmented sentences, and unclear references make it impossible to capture the speaker's intended meaning or voice accurately.\n\nTo provide a good translation, I'd need a transcript that's more legible—perhaps one that was transcribed more carefully or with better audio quality."
   },
   {
     "question": "How many years have you been here now? How many years have you been here now?",
@@ -1927,6 +1987,7 @@
       }
     ],
     "visitor_question": "How did you end up in your final home?",
-    "question_zh": "你最後是怎樣住進你現在的家的?"
+    "question_zh": "你最後是怎樣住進你現在的家的?",
+    "answer_text_en": "I think that was 1988, and now it's been 26 years. This is the longest house you've ever lived in before. This is the best location—it has a bathtub. Actually, the best part is really the middle section. Don't worry, there's space on both sides. We lived in Kuneia for a year. We were there for a year, I think it was 1986. No, wait, maybe it was 1991. I think it was even longer than that. I think it was longer than that. I remember it was 1980. I was still at Niépte's place. I was still at Niépte's place back then, you know, at that time. Okay, I think it's time now. Thank you, we'll do another short one. Thank you for the singing."
   }
 ]

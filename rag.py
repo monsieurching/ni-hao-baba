@@ -85,7 +85,7 @@ def get_all_questions(popular_order=None) -> list[dict]:
             "label":       p.get("label", ""),
             "start_fmt":   p["start_fmt"],
             "segments":    [[s["start"], s["end"]] for s in segs],
-            "answer_text": p.get("answer_text", ""),
+            "answer_text": p.get("answer_text_en") or p.get("answer_text", ""),
         }
 
     featured = [_card(i, p) for i, p in enumerate(pairs) if p.get("featured")]
